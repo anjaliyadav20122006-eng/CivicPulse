@@ -93,13 +93,6 @@ python agent.py
 streamlit run streamlit_app.py
 ```
 
-## Note on Tooling
-
-IBM Granite Models and IBM BOB were introduced during the internship
-curriculum. This implementation uses equivalent open-source/standard
-tooling (Python, scikit-learn) as confirmed acceptable for the project
-submission, per the guideline's "Others" allowance under permitted AI
-components.
 
 ---
 
