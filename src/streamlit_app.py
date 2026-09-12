@@ -13,16 +13,24 @@ Run with:  streamlit run streamlit_app.py
 import json
 import streamlit as st
 import pandas as pd
+import os
 
 from rag_pipeline import build_knowledge_base, RAGRetriever, build_query_from_cluster
 from agent import generate_policy_brief, priority_label
 
 st.set_page_config(page_title="CivicPulse", page_icon="🏛️", layout="wide")
 
+# Resolve data directory relative to THIS file's location, not the
+# current working directory -- this makes the app work identically
+# whether run locally (streamlit run streamlit_app.py from inside src/)
+# or on Streamlit Cloud (which runs from the repo root).
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
+
 
 @st.cache_resource
 def load_pipeline():
-    with open("../data/clusters_structured.json") as f:
+    with open(os.path.join(DATA_DIR, "clusters_structured.json")) as f:
         clusters = json.load(f)
     chunks = build_knowledge_base()
     retriever = RAGRetriever(chunks)
@@ -112,7 +120,7 @@ st.caption(f"Weekly complaint volume for {selected_cluster['ward']} — "
 
 @st.cache_data
 def load_enriched():
-    with open("../data/grievances_enriched.json") as f:
+    with open(os.path.join(DATA_DIR, "grievances_enriched.json")) as f:
         return pd.DataFrame(json.load(f))
 
 

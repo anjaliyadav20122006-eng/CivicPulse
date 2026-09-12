@@ -31,9 +31,14 @@ import json
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
 
-def load_documents(doc_dir="../data"):
+
+def load_documents(doc_dir=None):
     """Load all SOP .txt documents from the data directory."""
+    if doc_dir is None:
+        doc_dir = DEFAULT_DATA_DIR
     docs = {}
     for path in glob.glob(os.path.join(doc_dir, "sop_*.txt")):
         name = os.path.basename(path)
@@ -60,7 +65,7 @@ def chunk_document(text, doc_name):
     return chunks
 
 
-def build_knowledge_base(doc_dir="../data"):
+def build_knowledge_base(doc_dir=None):
     docs = load_documents(doc_dir)
     all_chunks = []
     for name, text in docs.items():
