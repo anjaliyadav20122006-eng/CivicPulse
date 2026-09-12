@@ -1,0 +1,116 @@
+[
+  {
+    "chunk_id": "sop_drainage.txt::chunk0",
+    "source_doc": "sop_drainage.txt",
+    "header": "MUNICIPAL SOP DOCUMENT: DRAINAGE & WATERLOGGING MANAGEMENT",
+    "text": "MUNICIPAL SOP DOCUMENT: DRAINAGE & WATERLOGGING MANAGEMENT\nDepartment of Public Works and Drainage\nDocument Reference: PWD-DRAIN-SOP-2024"
+  },
+  {
+    "chunk_id": "sop_drainage.txt::chunk1",
+    "source_doc": "sop_drainage.txt",
+    "header": "1. PURPOSE",
+    "text": "1. PURPOSE\nThis document lays out the Standard Operating Procedure for identifying,\nprioritizing, and resolving waterlogging and drainage complaints raised\nby citizens through the municipal grievance portal."
+  },
+  {
+    "chunk_id": "sop_drainage.txt::chunk2",
+    "source_doc": "sop_drainage.txt",
+    "header": "2. CLASSIFICATION OF WATERLOGGING COMPLAINTS",
+    "text": "2. CLASSIFICATION OF WATERLOGGING COMPLAINTS\nWaterlogging complaints are classified into three severity tiers:\n- Tier 1 (Critical): Water entering residential premises, or waterlogging\n  persisting for more than 72 hours after rainfall stops. Requires\n  emergency pumping within 24 hours and a site inspection by the Ward\n  Engineer within 48 hours.\n- Tier 2 (Moderate): Road-level waterlogging affecting vehicular movement\n  but not entering homes. Requires drain desilting within 7 days.\n- Tier 3 (Minor): Temporary puddling that clears within a few hours of\n  rain stopping. Logged for seasonal drain-cleaning schedule, no\n  emergency action required."
+  },
+  {
+    "chunk_id": "sop_drainage.txt::chunk3",
+    "source_doc": "sop_drainage.txt",
+    "header": "3. RECURRING HOTSPOT PROTOCOL",
+    "text": "3. RECURRING HOTSPOT PROTOCOL\nIf a single location (identified by ward and landmark) generates 5 or\nmore waterlogging complaints within a single monsoon season, it must be\nescalated to the Chief Engineer's office as a \"Recurring Drainage\nHotspot.\" Recurring hotspots require:\n- A root-cause survey (checking for undersized culverts, illegal\n  encroachment on drains, or silt accumulation).\n- Inclusion in the following year's capital works budget for permanent\n  remediation (culvert widening, new stormwater drain construction).\n- A public notice board at the site indicating remediation timeline."
+  },
+  {
+    "chunk_id": "sop_drainage.txt::chunk4",
+    "source_doc": "sop_drainage.txt",
+    "header": "4. MOSQUITO BREEDING RISK",
+    "text": "4. MOSQUITO BREEDING RISK\nAny waterlogging complaint text mentioning stagnant water for more than\n5 days must be simultaneously forwarded to the Public Health Department\nfor larvicide spraying, regardless of drainage severity tier."
+  },
+  {
+    "chunk_id": "sop_drainage.txt::chunk5",
+    "source_doc": "sop_drainage.txt",
+    "header": "5. RESOURCE ALLOCATION PRIORITY",
+    "text": "5. RESOURCE ALLOCATION PRIORITY\nWards with three or more recurring hotspots in the same season should\nreceive priority allocation of desilting machinery and manpower over\nwards with isolated, non-recurring complaints. This ensures equitable\nbut impact-weighted resource distribution."
+  },
+  {
+    "chunk_id": "sop_drainage.txt::chunk6",
+    "source_doc": "sop_drainage.txt",
+    "header": "6. CITIZEN COMMUNICATION",
+    "text": "6. CITIZEN COMMUNICATION\nFor every Tier 1 or recurring hotspot complaint, the ward office must\nsend an SMS/notification to the complainant within 48 hours acknowledging\nreceipt and providing an expected resolution timeline."
+  },
+  {
+    "chunk_id": "sop_infra.txt::chunk0",
+    "source_doc": "sop_infra.txt",
+    "header": "MUNICIPAL SOP DOCUMENT: STREETLIGHT, ROAD & WATER SUPPLY MAINTENANCE",
+    "text": "MUNICIPAL SOP DOCUMENT: STREETLIGHT, ROAD & WATER SUPPLY MAINTENANCE\nDepartment of Electrical & Roads, Water Supply Board\nDocument Reference: ELEC-ROAD-WSB-SOP-2024"
+  },
+  {
+    "chunk_id": "sop_infra.txt::chunk1",
+    "source_doc": "sop_infra.txt",
+    "header": "1. STREETLIGHT COMPLAINTS",
+    "text": "1. STREETLIGHT COMPLAINTS\n- Single non-functional streetlight: Repair within 5 working days.\n- Multiple non-functional streetlights on the same stretch (3 or more):\n  Classified as a \"safety corridor failure\" and must be repaired within\n  48 hours, since darkness over an extended stretch poses a materially\n  higher safety risk (especially for women and children) than an\n  isolated outage.\n- Complaints explicitly mentioning safety concerns (\"unsafe,\" \"women,\"\n  \"children,\" \"night\") should be prioritized over routine maintenance\n  queue ordering, irrespective of how long the fault has existed."
+  },
+  {
+    "chunk_id": "sop_infra.txt::chunk2",
+    "source_doc": "sop_infra.txt",
+    "header": "2. POTHOLE AND ROAD DAMAGE COMPLAINTS",
+    "text": "2. POTHOLE AND ROAD DAMAGE COMPLAINTS\n- Potholes reported with the keyword \"accident\" or \"skidding\" must be\n  inspected within 24 hours and temporarily patched within 72 hours even\n  if permanent resurfacing is scheduled later.\n- A stretch of road with 3 or more distinct pothole complaints should be\n  scheduled for full resurfacing rather than repeated spot-patching,\n  which is a recurring cost sink.\n- Post-monsoon road damage complaints typically spike; roads with\n  recurring monsoon-season pothole complaints in consecutive years\n  should be flagged for a monsoon-resilient resurfacing material upgrade."
+  },
+  {
+    "chunk_id": "sop_infra.txt::chunk3",
+    "source_doc": "sop_infra.txt",
+    "header": "3. WATER SUPPLY COMPLAINTS",
+    "text": "3. WATER SUPPLY COMPLAINTS\n- No-supply complaints: Restore within 24 hours; if pipeline damage is\n  the cause, provide a tanker as an interim measure within 6 hours.\n- Water contamination/quality complaints (odor, color, taste) are\n  treated as Tier 1 public health issues and require water sample\n  testing within 24 hours, regardless of complaint volume.\n- Irregular supply timing complaints, if recurring across a ward, should\n  trigger a pressure/distribution audit of that ward's pipeline network."
+  },
+  {
+    "chunk_id": "sop_infra.txt::chunk4",
+    "source_doc": "sop_infra.txt",
+    "header": "4. CROSS-DEPARTMENT NOTE",
+    "text": "4. CROSS-DEPARTMENT NOTE\nWards showing simultaneous recurring complaints across multiple\ncategories (e.g., waterlogging + potholes + streetlights) in the same\narea often indicate a single underlying infrastructure project need\n(e.g., a full road-and-drainage redevelopment) rather than independent\nfixes, and should be reviewed jointly by all departments before budget\nallocation."
+  },
+  {
+    "chunk_id": "sop_waste.txt::chunk0",
+    "source_doc": "sop_waste.txt",
+    "header": "MUNICIPAL SOP DOCUMENT: SOLID WASTE MANAGEMENT",
+    "text": "MUNICIPAL SOP DOCUMENT: SOLID WASTE MANAGEMENT\nDepartment of Sanitation\nDocument Reference: SAN-WASTE-SOP-2024"
+  },
+  {
+    "chunk_id": "sop_waste.txt::chunk1",
+    "source_doc": "sop_waste.txt",
+    "header": "1. PURPOSE",
+    "text": "1. PURPOSE\nThis SOP governs response timelines and escalation for garbage collection,\noverflowing bins, and illegal dumping complaints."
+  },
+  {
+    "chunk_id": "sop_waste.txt::chunk2",
+    "source_doc": "sop_waste.txt",
+    "header": "2. COMPLAINT RESPONSE TIMELINES",
+    "text": "2. COMPLAINT RESPONSE TIMELINES\n- Missed collection (single occurrence): Rectify within 24 hours by\n  dispatching the nearest available collection vehicle.\n- Overflowing community bin: Rectify within 12 hours; if a bin overflows\n  more than twice in a month at the same location, its collection\n  frequency must be permanently increased from alternate-day to daily.\n- Illegal dumping (construction debris, bulk waste): Requires a\n  dedicated debris-clearing team, response within 48 hours, and a fine\n  notice if the dumping party can be identified via municipal cameras\n  or resident testimony."
+  },
+  {
+    "chunk_id": "sop_waste.txt::chunk3",
+    "source_doc": "sop_waste.txt",
+    "header": "3. RECURRING NON-COLLECTION HOTSPOT PROTOCOL",
+    "text": "3. RECURRING NON-COLLECTION HOTSPOT PROTOCOL\nIf a street or locality generates 5 or more missed-collection complaints\nwithin a 60-day window, this indicates a systemic route-planning failure\nrather than a one-off lapse. Such cases must be escalated to the\nSanitation Route Planning Committee for route redesign, not merely\nrepeated ad-hoc dispatches."
+  },
+  {
+    "chunk_id": "sop_waste.txt::chunk4",
+    "source_doc": "sop_waste.txt",
+    "header": "4. HEALTH AND HYGIENE ESCALATION",
+    "text": "4. HEALTH AND HYGIENE ESCALATION\nComplaints mentioning \"foul smell,\" \"health hazard,\" or proximity to a\nschool/hospital must be treated as high priority regardless of whether\nthe 5-complaint recurring threshold has been met, and addressed within\n12 hours."
+  },
+  {
+    "chunk_id": "sop_waste.txt::chunk5",
+    "source_doc": "sop_waste.txt",
+    "header": "5. EQUITY CONSIDERATION",
+    "text": "5. EQUITY CONSIDERATION\nWards with historically low complaint volume should not be assumed to\nhave fewer sanitation issues -- low complaint volume may reflect lower\ndigital literacy or grievance-portal awareness rather than lower actual\nneed. Sanitation supervisors should conduct periodic physical audits in\nsuch wards independent of complaint volume."
+  },
+  {
+    "chunk_id": "sop_waste.txt::chunk6",
+    "source_doc": "sop_waste.txt",
+    "header": "6. REPORTING",
+    "text": "6. REPORTING\nMonthly sanitation performance reports must break down missed-collection\nincidents by ward to identify systemic versus isolated failures."
+  }
+]

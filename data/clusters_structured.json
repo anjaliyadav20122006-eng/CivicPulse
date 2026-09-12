@@ -1,0 +1,1610 @@
+[
+  {
+    "ward": "Ward 12",
+    "issue_type": "waterlogging",
+    "complaint_count": 22,
+    "avg_urgency_score": 0.45,
+    "most_recent_complaint": "2026-08-28",
+    "days_since_last_complaint": 4,
+    "priority_score": 0.791,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00284",
+      "CMP00311",
+      "CMP00117"
+    ],
+    "sample_texts": [
+      "Stagnant water near Main Bazaar for 10 days, mosquito breeding ground, Ward 12 residents worried.",
+      "Stagnant water near Shiv Mandir Road for 10 days, mosquito breeding ground, Ward 12 residents worried."
+    ]
+  },
+  {
+    "ward": "Ward 12",
+    "issue_type": "streetlight",
+    "complaint_count": 19,
+    "avg_urgency_score": 0.474,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.787,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00185",
+      "CMP00555",
+      "CMP00532"
+    ],
+    "sample_texts": [
+      "Complaint raised earlier too - streetlight at Gandhi Chowk (Ward 12) still not fixed.",
+      "Streetlight near Ambedkar Park, Ward 12 not working for several months, safety issue at night."
+    ]
+  },
+  {
+    "ward": "Ward 7",
+    "issue_type": "pothole",
+    "complaint_count": 18,
+    "avg_urgency_score": 0.506,
+    "most_recent_complaint": "2026-08-28",
+    "days_since_last_complaint": 4,
+    "priority_score": 0.77,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00258",
+      "CMP00261",
+      "CMP00315"
+    ],
+    "sample_texts": [
+      "Road near Gandhi Chowk in Ward 7 badly damaged after rains, potholes everywhere.",
+      "Road near Railway Station Road in Ward 7 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 3",
+    "issue_type": "waterlogging",
+    "complaint_count": 18,
+    "avg_urgency_score": 0.406,
+    "most_recent_complaint": "2026-09-01",
+    "days_since_last_complaint": 0,
+    "priority_score": 0.752,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00226",
+      "CMP00042",
+      "CMP00222"
+    ],
+    "sample_texts": [
+      "Stagnant water near Main Bazaar for 2 days, mosquito breeding ground, Ward 3 residents worried.",
+      "Stagnant water near Sector 4 Market for several months, mosquito breeding ground, Ward 3 residents worried."
+    ]
+  },
+  {
+    "ward": "Ward 12",
+    "issue_type": "garbage",
+    "complaint_count": 24,
+    "avg_urgency_score": 0.2,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.712,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00121",
+      "CMP00111",
+      "CMP00179"
+    ],
+    "sample_texts": [
+      "Municipal garbage van has skipped our street near Petrol Pump Circle (Ward 12) for 10 days.",
+      "Municipal garbage van has skipped our street near Community Hall (Ward 12) for several months."
+    ]
+  },
+  {
+    "ward": "Ward 7",
+    "issue_type": "streetlight",
+    "complaint_count": 13,
+    "avg_urgency_score": 0.585,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.706,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00287",
+      "CMP00416",
+      "CMP00143"
+    ],
+    "sample_texts": [
+      "Complaint raised earlier too - streetlight at Ambedkar Park (Ward 7) still not fixed.",
+      "Multiple streetlights down on the stretch near Railway Station Road in Ward 7, women feel unsafe."
+    ]
+  },
+  {
+    "ward": "Ward 7",
+    "issue_type": "garbage",
+    "complaint_count": 26,
+    "avg_urgency_score": 0.177,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.704,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00014",
+      "CMP00122",
+      "CMP00005"
+    ],
+    "sample_texts": [
+      "Overflowing garbage bin at Petrol Pump Circle, Ward 7, please send collection truck.",
+      "Municipal garbage van has skipped our street near New Market Complex (Ward 7) for 3 weeks."
+    ]
+  },
+  {
+    "ward": "Ward 7",
+    "issue_type": "water_supply",
+    "complaint_count": 23,
+    "avg_urgency_score": 0.152,
+    "most_recent_complaint": "2026-08-31",
+    "days_since_last_complaint": 1,
+    "priority_score": 0.699,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00224",
+      "CMP00235",
+      "CMP00440"
+    ],
+    "sample_texts": [
+      "No water supply near Petrol Pump Circle, Ward 7 for several months, please check pipeline.",
+      "Contaminated water coming from tap near Govt School in Ward 7, smells bad."
+    ]
+  },
+  {
+    "ward": "Ward 7",
+    "issue_type": "waterlogging",
+    "complaint_count": 15,
+    "avg_urgency_score": 0.36,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.668,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00300",
+      "CMP00556",
+      "CMP00344"
+    ],
+    "sample_texts": [
+      "Drain overflow causing water to enter houses near Gandhi Chowk, Ward 7. Please help urgently.",
+      "Stagnant water near Sector 4 Market for 5 days, mosquito breeding ground, Ward 7 residents worried."
+    ]
+  },
+  {
+    "ward": "Ward 3",
+    "issue_type": "sewage",
+    "complaint_count": 11,
+    "avg_urgency_score": 0.545,
+    "most_recent_complaint": "2026-08-31",
+    "days_since_last_complaint": 1,
+    "priority_score": 0.657,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00286",
+      "CMP00412",
+      "CMP00093"
+    ],
+    "sample_texts": [
+      "Sewage line broken near Railway Station Road, Ward 3, dirty water flowing on road for 10 days.",
+      "Manhole overflow near Shiv Mandir Road in Ward 3, extremely unhygienic condition."
+    ]
+  },
+  {
+    "ward": "Ward 4",
+    "issue_type": "sewage",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.9,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.657,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00036",
+      "CMP00016",
+      "CMP00339"
+    ],
+    "sample_texts": [
+      "Manhole overflow near Railway Station Road in Ward 4, extremely unhygienic condition.",
+      "Manhole overflow near Sector 4 Market in Ward 4, extremely unhygienic condition."
+    ]
+  },
+  {
+    "ward": "Ward 12",
+    "issue_type": "pothole",
+    "complaint_count": 14,
+    "avg_urgency_score": 0.443,
+    "most_recent_complaint": "2026-08-25",
+    "days_since_last_complaint": 7,
+    "priority_score": 0.656,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00223",
+      "CMP00097",
+      "CMP00585"
+    ],
+    "sample_texts": [
+      "Road near New Market Complex in Ward 12 badly damaged after rains, potholes everywhere.",
+      "Road near Housing Colony Gate in Ward 12 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 7",
+    "issue_type": "sewage",
+    "complaint_count": 12,
+    "avg_urgency_score": 0.567,
+    "most_recent_complaint": "2026-08-24",
+    "days_since_last_complaint": 8,
+    "priority_score": 0.655,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00052",
+      "CMP00050",
+      "CMP00017"
+    ],
+    "sample_texts": [
+      "Sewage line broken near Ring Road Junction, Ward 7, dirty water flowing on road for over a month.",
+      "Sewage line broken near Gandhi Chowk, Ward 7, dirty water flowing on road for over a month."
+    ]
+  },
+  {
+    "ward": "Ward 3",
+    "issue_type": "streetlight",
+    "complaint_count": 9,
+    "avg_urgency_score": 0.622,
+    "most_recent_complaint": "2026-08-28",
+    "days_since_last_complaint": 4,
+    "priority_score": 0.631,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00045",
+      "CMP00381",
+      "CMP00486"
+    ],
+    "sample_texts": [
+      "Streetlight near New Market Complex, Ward 3 not working for 3 weeks, safety issue at night.",
+      "Complaint raised earlier too - streetlight at Ambedkar Park (Ward 3) still not fixed."
+    ]
+  },
+  {
+    "ward": "Ward 12",
+    "issue_type": "sewage",
+    "complaint_count": 11,
+    "avg_urgency_score": 0.5,
+    "most_recent_complaint": "2026-08-28",
+    "days_since_last_complaint": 4,
+    "priority_score": 0.628,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00240",
+      "CMP00177",
+      "CMP00475"
+    ],
+    "sample_texts": [
+      "Manhole overflow near New Market Complex in Ward 12, extremely unhygienic condition.",
+      "Sewage line broken near Ring Road Junction, Ward 12, dirty water flowing on road for 3 weeks."
+    ]
+  },
+  {
+    "ward": "Ward 14",
+    "issue_type": "waterlogging",
+    "complaint_count": 1,
+    "avg_urgency_score": 1.0,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.612,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00275"
+    ],
+    "sample_texts": [
+      "Drain overflow causing water to enter houses near Gandhi Chowk, Ward 14. Please help urgently."
+    ]
+  },
+  {
+    "ward": "Ward 14",
+    "issue_type": "streetlight",
+    "complaint_count": 2,
+    "avg_urgency_score": 1.0,
+    "most_recent_complaint": "2026-08-25",
+    "days_since_last_complaint": 7,
+    "priority_score": 0.611,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00108",
+      "CMP00161"
+    ],
+    "sample_texts": [
+      "Multiple streetlights down on the stretch near Ring Road Junction in Ward 14, women feel unsafe.",
+      "Multiple streetlights down on the stretch near Shiv Mandir Road in Ward 14, women feel unsafe."
+    ]
+  },
+  {
+    "ward": "Ward 1",
+    "issue_type": "streetlight",
+    "complaint_count": 6,
+    "avg_urgency_score": 0.683,
+    "most_recent_complaint": "2026-09-01",
+    "days_since_last_complaint": 0,
+    "priority_score": 0.609,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00600",
+      "CMP00395",
+      "CMP00340"
+    ],
+    "sample_texts": [
+      "Complaint raised earlier too - streetlight at New Market Complex (Ward 1) still not fixed.",
+      "Streetlight near Govt School, Ward 1 not working for 5 days, safety issue at night."
+    ]
+  },
+  {
+    "ward": "Ward 5",
+    "issue_type": "pothole",
+    "complaint_count": 11,
+    "avg_urgency_score": 0.491,
+    "most_recent_complaint": "2026-08-24",
+    "days_since_last_complaint": 8,
+    "priority_score": 0.608,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00559",
+      "CMP00060",
+      "CMP00147"
+    ],
+    "sample_texts": [
+      "Large pothole near Govt School, Ward 5 causing accidents, two-wheelers keep skidding.",
+      "Large pothole near Community Hall, Ward 5 causing accidents, two-wheelers keep skidding."
+    ]
+  },
+  {
+    "ward": "Ward 11",
+    "issue_type": "streetlight",
+    "complaint_count": 8,
+    "avg_urgency_score": 0.588,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.607,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00127",
+      "CMP00419",
+      "CMP00342"
+    ],
+    "sample_texts": [
+      "Complaint raised earlier too - streetlight at Govt School (Ward 11) still not fixed.",
+      "Complaint raised earlier too - streetlight at Housing Colony Gate (Ward 11) still not fixed."
+    ]
+  },
+  {
+    "ward": "Ward 4",
+    "issue_type": "pothole",
+    "complaint_count": 8,
+    "avg_urgency_score": 0.588,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.607,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00467",
+      "CMP00186",
+      "CMP00262"
+    ],
+    "sample_texts": [
+      "Road near Petrol Pump Circle in Ward 4 badly damaged after rains, potholes everywhere.",
+      "Road near Sector 4 Market in Ward 4 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 11",
+    "issue_type": "waterlogging",
+    "complaint_count": 11,
+    "avg_urgency_score": 0.373,
+    "most_recent_complaint": "2026-08-31",
+    "days_since_last_complaint": 1,
+    "priority_score": 0.596,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00590",
+      "CMP00325",
+      "CMP00203"
+    ],
+    "sample_texts": [
+      "Sir humara area Ward 11 Gandhi Chowk ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",
+      "Stagnant water near Shiv Mandir Road for 3 weeks, mosquito breeding ground, Ward 11 residents worried."
+    ]
+  },
+  {
+    "ward": "Ward 2",
+    "issue_type": "streetlight",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.7,
+    "most_recent_complaint": "2026-08-31",
+    "days_since_last_complaint": 1,
+    "priority_score": 0.591,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00578",
+      "CMP00313",
+      "CMP00565"
+    ],
+    "sample_texts": [
+      "Complaint raised earlier too - streetlight at Old Bus Stand (Ward 2) still not fixed.",
+      "Multiple streetlights down on the stretch near Old Bus Stand in Ward 2, women feel unsafe."
+    ]
+  },
+  {
+    "ward": "Ward 10",
+    "issue_type": "sewage",
+    "complaint_count": 1,
+    "avg_urgency_score": 1.0,
+    "most_recent_complaint": "2026-08-24",
+    "days_since_last_complaint": 8,
+    "priority_score": 0.587,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00281"
+    ],
+    "sample_texts": [
+      "Manhole overflow near Petrol Pump Circle in Ward 10, extremely unhygienic condition."
+    ]
+  },
+  {
+    "ward": "Ward 13",
+    "issue_type": "streetlight",
+    "complaint_count": 8,
+    "avg_urgency_score": 0.537,
+    "most_recent_complaint": "2026-08-29",
+    "days_since_last_complaint": 3,
+    "priority_score": 0.586,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00458",
+      "CMP00485",
+      "CMP00543"
+    ],
+    "sample_texts": [
+      "Streetlight near New Market Complex, Ward 13 not working for 5 days, safety issue at night.",
+      "Multiple streetlights down on the stretch near Railway Station Road in Ward 13, women feel unsafe."
+    ]
+  },
+  {
+    "ward": "Ward 15",
+    "issue_type": "streetlight",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.75,
+    "most_recent_complaint": "2026-08-27",
+    "days_since_last_complaint": 5,
+    "priority_score": 0.572,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00511",
+      "CMP00175",
+      "CMP00293"
+    ],
+    "sample_texts": [
+      "Multiple streetlights down on the stretch near Govt School in Ward 15, women feel unsafe.",
+      "Streetlight near Housing Colony Gate, Ward 15 not working for over a month, safety issue at night."
+    ]
+  },
+  {
+    "ward": "Ward 8",
+    "issue_type": "streetlight",
+    "complaint_count": 3,
+    "avg_urgency_score": 0.833,
+    "most_recent_complaint": "2026-08-21",
+    "days_since_last_complaint": 11,
+    "priority_score": 0.556,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00141",
+      "CMP00169",
+      "CMP00527"
+    ],
+    "sample_texts": [
+      "Multiple streetlights down on the stretch near Shiv Mandir Road in Ward 8, women feel unsafe.",
+      "Streetlight near Sector 4 Market, Ward 8 not working for several months, safety issue at night."
+    ]
+  },
+  {
+    "ward": "Ward 12",
+    "issue_type": "water_supply",
+    "complaint_count": 13,
+    "avg_urgency_score": 0.131,
+    "most_recent_complaint": "2026-08-31",
+    "days_since_last_complaint": 1,
+    "priority_score": 0.552,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00255",
+      "CMP00415",
+      "CMP00546"
+    ],
+    "sample_texts": [
+      "Contaminated water coming from tap near Shiv Mandir Road in Ward 12, smells bad.",
+      "Irregular water supply timing in Ward 12 near Industrial Area Gate, affecting daily routine."
+    ]
+  },
+  {
+    "ward": "Ward 13",
+    "issue_type": "waterlogging",
+    "complaint_count": 10,
+    "avg_urgency_score": 0.28,
+    "most_recent_complaint": "2026-09-01",
+    "days_since_last_complaint": 0,
+    "priority_score": 0.548,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00103",
+      "CMP00347",
+      "CMP00237"
+    ],
+    "sample_texts": [
+      "Sir humara area Ward 13 Govt School ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",
+      "Sir humara area Ward 13 Ambedkar Park ke paas paani bhar gaya hai, bahut dino se yehi problem hai."
+    ]
+  },
+  {
+    "ward": "Ward 4",
+    "issue_type": "streetlight",
+    "complaint_count": 7,
+    "avg_urgency_score": 0.529,
+    "most_recent_complaint": "2026-08-25",
+    "days_since_last_complaint": 7,
+    "priority_score": 0.546,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00257",
+      "CMP00591",
+      "CMP00391"
+    ],
+    "sample_texts": [
+      "Complaint raised earlier too - streetlight at Industrial Area Gate (Ward 4) still not fixed.",
+      "Multiple streetlights down on the stretch near Ambedkar Park in Ward 4, women feel unsafe."
+    ]
+  },
+  {
+    "ward": "Ward 3",
+    "issue_type": "pothole",
+    "complaint_count": 9,
+    "avg_urgency_score": 0.444,
+    "most_recent_complaint": "2026-08-22",
+    "days_since_last_complaint": 10,
+    "priority_score": 0.544,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00400",
+      "CMP00443",
+      "CMP00379"
+    ],
+    "sample_texts": [
+      "Road near Ambedkar Park in Ward 3 badly damaged after rains, potholes everywhere.",
+      "Road near New Market Complex in Ward 3 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 1",
+    "issue_type": "waterlogging",
+    "complaint_count": 6,
+    "avg_urgency_score": 0.467,
+    "most_recent_complaint": "2026-08-31",
+    "days_since_last_complaint": 1,
+    "priority_score": 0.529,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00003",
+      "CMP00330",
+      "CMP00576"
+    ],
+    "sample_texts": [
+      "Drain overflow causing water to enter houses near Main Bazaar, Ward 1. Please help urgently.",
+      "Stagnant water near Shiv Mandir Road for 10 days, mosquito breeding ground, Ward 1 residents worried."
+    ]
+  },
+  {
+    "ward": "Ward 3",
+    "issue_type": "garbage",
+    "complaint_count": 13,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-27",
+    "days_since_last_complaint": 5,
+    "priority_score": 0.524,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00484",
+      "CMP00225",
+      "CMP00418"
+    ],
+    "sample_texts": [
+      "Illegal dumping of construction waste near Railway Station Road in Ward 3, causing blockage.",
+      "Overflowing garbage bin at Ring Road Junction, Ward 3, please send collection truck."
+    ]
+  },
+  {
+    "ward": "Ward 2",
+    "issue_type": "pothole",
+    "complaint_count": 8,
+    "avg_urgency_score": 0.362,
+    "most_recent_complaint": "2026-08-29",
+    "days_since_last_complaint": 3,
+    "priority_score": 0.524,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00013",
+      "CMP00010",
+      "CMP00323"
+    ],
+    "sample_texts": [
+      "Same pothole near Riverside Lane (Ward 2) reported a week ago, still not repaired.",
+      "Road near Railway Station Road in Ward 2 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 6",
+    "issue_type": "waterlogging",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.64,
+    "most_recent_complaint": "2026-08-20",
+    "days_since_last_complaint": 12,
+    "priority_score": 0.524,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00028",
+      "CMP00423",
+      "CMP00285"
+    ],
+    "sample_texts": [
+      "Every monsoon the road near Ambedkar Park in Ward 6 gets waterlogged, no permanent solution done yet.",
+      "Heavy waterlogging near Ambedkar Park in Ward 6 since 2 days. Road is completely flooded."
+    ]
+  },
+  {
+    "ward": "Ward 10",
+    "issue_type": "waterlogging",
+    "complaint_count": 8,
+    "avg_urgency_score": 0.487,
+    "most_recent_complaint": "2026-08-15",
+    "days_since_last_complaint": 17,
+    "priority_score": 0.51,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00089",
+      "CMP00410",
+      "CMP00433"
+    ],
+    "sample_texts": [
+      "Drain overflow causing water to enter houses near Old Bus Stand, Ward 10. Please help urgently.",
+      "Heavy waterlogging near Housing Colony Gate in Ward 10 since 10 days. Road is completely flooded."
+    ]
+  },
+  {
+    "ward": "Ward 4",
+    "issue_type": "waterlogging",
+    "complaint_count": 8,
+    "avg_urgency_score": 0.263,
+    "most_recent_complaint": "2026-09-01",
+    "days_since_last_complaint": 0,
+    "priority_score": 0.502,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00164",
+      "CMP00035",
+      "CMP00015"
+    ],
+    "sample_texts": [
+      "Stagnant water near New Market Complex for over a month, mosquito breeding ground, Ward 4 residents worried.",
+      "Heavy waterlogging near Riverside Lane in Ward 4 since 5 days. Road is completely flooded."
+    ]
+  },
+  {
+    "ward": "Ward 9",
+    "issue_type": "garbage",
+    "complaint_count": 11,
+    "avg_urgency_score": 0.136,
+    "most_recent_complaint": "2026-08-27",
+    "days_since_last_complaint": 5,
+    "priority_score": 0.497,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00370",
+      "CMP00148",
+      "CMP00332"
+    ],
+    "sample_texts": [
+      "Garbage not collected for 2 days near Gandhi Chowk, Ward 9. Foul smell spreading.",
+      "Garbage not collected for a week near Old Bus Stand, Ward 9. Foul smell spreading."
+    ]
+  },
+  {
+    "ward": "Ward 5",
+    "issue_type": "waterlogging",
+    "complaint_count": 8,
+    "avg_urgency_score": 0.312,
+    "most_recent_complaint": "2026-08-26",
+    "days_since_last_complaint": 6,
+    "priority_score": 0.494,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00572",
+      "CMP00188",
+      "CMP00245"
+    ],
+    "sample_texts": [
+      "Drain overflow causing water to enter houses near Housing Colony Gate, Ward 5. Please help urgently.",
+      "Every monsoon the road near Industrial Area Gate in Ward 5 gets waterlogged, no permanent solution done yet."
+    ]
+  },
+  {
+    "ward": "Ward 13",
+    "issue_type": "pothole",
+    "complaint_count": 7,
+    "avg_urgency_score": 0.471,
+    "most_recent_complaint": "2026-08-15",
+    "days_since_last_complaint": 17,
+    "priority_score": 0.484,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00140",
+      "CMP00516",
+      "CMP00296"
+    ],
+    "sample_texts": [
+      "Road near Railway Station Road in Ward 13 badly damaged after rains, potholes everywhere.",
+      "Same pothole near Old Bus Stand (Ward 13) reported over a month ago, still not repaired."
+    ]
+  },
+  {
+    "ward": "Ward 6",
+    "issue_type": "sewage",
+    "complaint_count": 1,
+    "avg_urgency_score": 1.0,
+    "most_recent_complaint": "2026-07-29",
+    "days_since_last_complaint": 34,
+    "priority_score": 0.478,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00134"
+    ],
+    "sample_texts": [
+      "Manhole overflow near Shiv Mandir Road in Ward 6, extremely unhygienic condition."
+    ]
+  },
+  {
+    "ward": "Ward 8",
+    "issue_type": "waterlogging",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.36,
+    "most_recent_complaint": "2026-08-31",
+    "days_since_last_complaint": 1,
+    "priority_score": 0.472,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00493",
+      "CMP00067",
+      "CMP00438"
+    ],
+    "sample_texts": [
+      "Heavy waterlogging near Old Bus Stand in Ward 8 since 10 days. Road is completely flooded.",
+      "Drain overflow causing water to enter houses near Gandhi Chowk, Ward 8. Please help urgently."
+    ]
+  },
+  {
+    "ward": "Ward 11",
+    "issue_type": "pothole",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.525,
+    "most_recent_complaint": "2026-08-22",
+    "days_since_last_complaint": 10,
+    "priority_score": 0.472,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00568",
+      "CMP00002",
+      "CMP00338"
+    ],
+    "sample_texts": [
+      "Road near Shiv Mandir Road in Ward 11 badly damaged after rains, potholes everywhere.",
+      "Same pothole near Railway Station Road (Ward 11) reported over a month ago, still not repaired."
+    ]
+  },
+  {
+    "ward": "Ward 8",
+    "issue_type": "pothole",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.44,
+    "most_recent_complaint": "2026-08-24",
+    "days_since_last_complaint": 8,
+    "priority_score": 0.471,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00004",
+      "CMP00091",
+      "CMP00525"
+    ],
+    "sample_texts": [
+      "Same pothole near Main Bazaar (Ward 8) reported 3 weeks ago, still not repaired.",
+      "Road near Housing Colony Gate in Ward 8 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 10",
+    "issue_type": "pothole",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.425,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.47,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00461",
+      "CMP00215",
+      "CMP00069"
+    ],
+    "sample_texts": [
+      "Road near Petrol Pump Circle in Ward 10 badly damaged after rains, potholes everywhere.",
+      "Same pothole near Govt School (Ward 10) reported over a month ago, still not repaired."
+    ]
+  },
+  {
+    "ward": "Ward 2",
+    "issue_type": "garbage",
+    "complaint_count": 7,
+    "avg_urgency_score": 0.214,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.457,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00394",
+      "CMP00563",
+      "CMP00219"
+    ],
+    "sample_texts": [
+      "Municipal garbage van has skipped our street near Railway Station Road (Ward 2) for 5 days.",
+      "Garbage not collected for 10 days near Railway Station Road, Ward 2. Foul smell spreading."
+    ]
+  },
+  {
+    "ward": "Ward 5",
+    "issue_type": "streetlight",
+    "complaint_count": 6,
+    "avg_urgency_score": 0.367,
+    "most_recent_complaint": "2026-08-18",
+    "days_since_last_complaint": 14,
+    "priority_score": 0.44,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00581",
+      "CMP00385",
+      "CMP00579"
+    ],
+    "sample_texts": [
+      "Streetlight near Gandhi Chowk, Ward 5 not working for a week, safety issue at night.",
+      "Streetlight near Community Hall, Ward 5 not working for over a month, safety issue at night."
+    ]
+  },
+  {
+    "ward": "Ward 1",
+    "issue_type": "garbage",
+    "complaint_count": 9,
+    "avg_urgency_score": 0.144,
+    "most_recent_complaint": "2026-08-22",
+    "days_since_last_complaint": 10,
+    "priority_score": 0.439,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00157",
+      "CMP00271",
+      "CMP00064"
+    ],
+    "sample_texts": [
+      "Illegal dumping of construction waste near Ring Road Junction in Ward 1, causing blockage.",
+      "Illegal dumping of construction waste near Railway Station Road in Ward 1, causing blockage."
+    ]
+  },
+  {
+    "ward": "Ward 9",
+    "issue_type": "streetlight",
+    "complaint_count": 2,
+    "avg_urgency_score": 0.55,
+    "most_recent_complaint": "2026-08-19",
+    "days_since_last_complaint": 13,
+    "priority_score": 0.428,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00272",
+      "CMP00055"
+    ],
+    "sample_texts": [
+      "Multiple streetlights down on the stretch near Ring Road Junction in Ward 9, women feel unsafe.",
+      "Streetlight near Gandhi Chowk, Ward 9 not working for 3 weeks, safety issue at night."
+    ]
+  },
+  {
+    "ward": "Ward 10",
+    "issue_type": "streetlight",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.52,
+    "most_recent_complaint": "2026-08-06",
+    "days_since_last_complaint": 26,
+    "priority_score": 0.424,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00087",
+      "CMP00253",
+      "CMP00115"
+    ],
+    "sample_texts": [
+      "Complaint raised earlier too - streetlight at Old Bus Stand (Ward 10) still not fixed.",
+      "Complaint raised earlier too - streetlight at Community Hall (Ward 10) still not fixed."
+    ]
+  },
+  {
+    "ward": "Ward 11",
+    "issue_type": "water_supply",
+    "complaint_count": 6,
+    "avg_urgency_score": 0.167,
+    "most_recent_complaint": "2026-08-30",
+    "days_since_last_complaint": 2,
+    "priority_score": 0.42,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00249",
+      "CMP00291",
+      "CMP00357"
+    ],
+    "sample_texts": [
+      "Irregular water supply timing in Ward 11 near Ring Road Junction, affecting daily routine.",
+      "No water supply near Main Bazaar, Ward 11 for a week, please check pipeline."
+    ]
+  },
+  {
+    "ward": "Ward 8",
+    "issue_type": "water_supply",
+    "complaint_count": 6,
+    "avg_urgency_score": 0.233,
+    "most_recent_complaint": "2026-08-23",
+    "days_since_last_complaint": 9,
+    "priority_score": 0.414,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00534",
+      "CMP00278",
+      "CMP00476"
+    ],
+    "sample_texts": [
+      "Contaminated water coming from tap near Main Bazaar in Ward 8, smells bad.",
+      "Irregular water supply timing in Ward 8 near Shiv Mandir Road, affecting daily routine."
+    ]
+  },
+  {
+    "ward": "Ward 5",
+    "issue_type": "garbage",
+    "complaint_count": 7,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-27",
+    "days_since_last_complaint": 5,
+    "priority_score": 0.404,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00210",
+      "CMP00135",
+      "CMP00533"
+    ],
+    "sample_texts": [
+      "Illegal dumping of construction waste near Railway Station Road in Ward 5, causing blockage.",
+      "Garbage not collected for a week near Riverside Lane, Ward 5. Foul smell spreading."
+    ]
+  },
+  {
+    "ward": "Ward 9",
+    "issue_type": "sewage",
+    "complaint_count": 1,
+    "avg_urgency_score": 1.0,
+    "most_recent_complaint": "2026-07-11",
+    "days_since_last_complaint": 52,
+    "priority_score": 0.403,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00268"
+    ],
+    "sample_texts": [
+      "Manhole overflow near New Market Complex in Ward 9, extremely unhygienic condition."
+    ]
+  },
+  {
+    "ward": "Ward 6",
+    "issue_type": "garbage",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.2,
+    "most_recent_complaint": "2026-09-01",
+    "days_since_last_complaint": 0,
+    "priority_score": 0.4,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00517",
+      "CMP00189",
+      "CMP00498"
+    ],
+    "sample_texts": [
+      "Municipal garbage van has skipped our street near Sector 4 Market (Ward 6) for several months.",
+      "Overflowing garbage bin at Main Bazaar, Ward 6, please send collection truck."
+    ]
+  },
+  {
+    "ward": "Ward 10",
+    "issue_type": "garbage",
+    "complaint_count": 7,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-25",
+    "days_since_last_complaint": 7,
+    "priority_score": 0.396,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00107",
+      "CMP00389",
+      "CMP00163"
+    ],
+    "sample_texts": [
+      "Overflowing garbage bin at New Market Complex, Ward 10, please send collection truck.",
+      "Municipal garbage van has skipped our street near New Market Complex (Ward 10) for 10 days."
+    ]
+  },
+  {
+    "ward": "Ward 4",
+    "issue_type": "garbage",
+    "complaint_count": 7,
+    "avg_urgency_score": 0.157,
+    "most_recent_complaint": "2026-08-20",
+    "days_since_last_complaint": 12,
+    "priority_score": 0.395,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00430",
+      "CMP00248",
+      "CMP00552"
+    ],
+    "sample_texts": [
+      "Illegal dumping of construction waste near Sector 4 Market in Ward 4, causing blockage.",
+      "Illegal dumping of construction waste near Old Bus Stand in Ward 4, causing blockage."
+    ]
+  },
+  {
+    "ward": "Ward 9",
+    "issue_type": "waterlogging",
+    "complaint_count": 6,
+    "avg_urgency_score": 0.233,
+    "most_recent_complaint": "2026-08-18",
+    "days_since_last_complaint": 14,
+    "priority_score": 0.393,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00001",
+      "CMP00353",
+      "CMP00213"
+    ],
+    "sample_texts": [
+      "Every monsoon the road near Sector 4 Market in Ward 9 gets waterlogged, no permanent solution done yet.",
+      "Sir humara area Ward 9 Community Hall ke paas paani bhar gaya hai, bahut dino se yehi problem hai."
+    ]
+  },
+  {
+    "ward": "Ward 8",
+    "issue_type": "garbage",
+    "complaint_count": 7,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-24",
+    "days_since_last_complaint": 8,
+    "priority_score": 0.392,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00535",
+      "CMP00547",
+      "CMP00038"
+    ],
+    "sample_texts": [
+      "Illegal dumping of construction waste near Main Bazaar in Ward 8, causing blockage.",
+      "Municipal garbage van has skipped our street near Govt School (Ward 8) for 3 weeks."
+    ]
+  },
+  {
+    "ward": "Ward 9",
+    "issue_type": "pothole",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.55,
+    "most_recent_complaint": "2026-07-29",
+    "days_since_last_complaint": 34,
+    "priority_score": 0.381,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00404",
+      "CMP00212",
+      "CMP00551"
+    ],
+    "sample_texts": [
+      "Large pothole near Riverside Lane, Ward 9 causing accidents, two-wheelers keep skidding.",
+      "Road near Ambedkar Park in Ward 9 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 5",
+    "issue_type": "sewage",
+    "complaint_count": 3,
+    "avg_urgency_score": 0.233,
+    "most_recent_complaint": "2026-08-29",
+    "days_since_last_complaint": 3,
+    "priority_score": 0.379,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00447",
+      "CMP00057",
+      "CMP00463"
+    ],
+    "sample_texts": [
+      "Sewage line broken near Ambedkar Park, Ward 5, dirty water flowing on road for a week.",
+      "Sewage line broken near Ambedkar Park, Ward 5, dirty water flowing on road for a week."
+    ]
+  },
+  {
+    "ward": "Ward 11",
+    "issue_type": "sewage",
+    "complaint_count": 1,
+    "avg_urgency_score": 1.0,
+    "most_recent_complaint": "2026-06-08",
+    "days_since_last_complaint": 85,
+    "priority_score": 0.37,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00326"
+    ],
+    "sample_texts": [
+      "Manhole overflow near Community Hall in Ward 11, extremely unhygienic condition."
+    ]
+  },
+  {
+    "ward": "Ward 14",
+    "issue_type": "pothole",
+    "complaint_count": 1,
+    "avg_urgency_score": 1.0,
+    "most_recent_complaint": "2026-06-23",
+    "days_since_last_complaint": 70,
+    "priority_score": 0.37,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00070"
+    ],
+    "sample_texts": [
+      "Large pothole near New Market Complex, Ward 14 causing accidents, two-wheelers keep skidding."
+    ]
+  },
+  {
+    "ward": "Ward 13",
+    "issue_type": "water_supply",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.2,
+    "most_recent_complaint": "2026-08-23",
+    "days_since_last_complaint": 9,
+    "priority_score": 0.363,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00292",
+      "CMP00388",
+      "CMP00544"
+    ],
+    "sample_texts": [
+      "No water supply near Shiv Mandir Road, Ward 13 for 5 days, please check pipeline.",
+      "Contaminated water coming from tap near Community Hall in Ward 13, smells bad."
+    ]
+  },
+  {
+    "ward": "Ward 10",
+    "issue_type": "water_supply",
+    "complaint_count": 6,
+    "avg_urgency_score": 0.167,
+    "most_recent_complaint": "2026-08-14",
+    "days_since_last_complaint": 18,
+    "priority_score": 0.353,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00575",
+      "CMP00505",
+      "CMP00567"
+    ],
+    "sample_texts": [
+      "No water supply near Gandhi Chowk, Ward 10 for over a month, please check pipeline.",
+      "Irregular water supply timing in Ward 10 near Petrol Pump Circle, affecting daily routine."
+    ]
+  },
+  {
+    "ward": "Ward 9",
+    "issue_type": "water_supply",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.2,
+    "most_recent_complaint": "2026-08-20",
+    "days_since_last_complaint": 12,
+    "priority_score": 0.35,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00548",
+      "CMP00468",
+      "CMP00524"
+    ],
+    "sample_texts": [
+      "No water supply near Govt School, Ward 9 for over a month, please check pipeline.",
+      "No water supply near Railway Station Road, Ward 9 for 3 weeks, please check pipeline."
+    ]
+  },
+  {
+    "ward": "Ward 2",
+    "issue_type": "sewage",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.325,
+    "most_recent_complaint": "2026-08-08",
+    "days_since_last_complaint": 24,
+    "priority_score": 0.344,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00113",
+      "CMP00158",
+      "CMP00181"
+    ],
+    "sample_texts": [
+      "Sewage line broken near Industrial Area Gate, Ward 2, dirty water flowing on road for 2 days.",
+      "Sewage line broken near Industrial Area Gate, Ward 2, dirty water flowing on road for 5 days."
+    ]
+  },
+  {
+    "ward": "Ward 11",
+    "issue_type": "garbage",
+    "complaint_count": 6,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-15",
+    "days_since_last_complaint": 17,
+    "priority_score": 0.334,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00478",
+      "CMP00137",
+      "CMP00598"
+    ],
+    "sample_texts": [
+      "Garbage not collected for a week near Govt School, Ward 11. Foul smell spreading.",
+      "Illegal dumping of construction waste near Railway Station Road in Ward 11, causing blockage."
+    ]
+  },
+  {
+    "ward": "Ward 6",
+    "issue_type": "water_supply",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-24",
+    "days_since_last_complaint": 8,
+    "priority_score": 0.332,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00166",
+      "CMP00479",
+      "CMP00129"
+    ],
+    "sample_texts": [
+      "Irregular water supply timing in Ward 6 near Housing Colony Gate, affecting daily routine.",
+      "Irregular water supply timing in Ward 6 near Govt School, affecting daily routine."
+    ]
+  },
+  {
+    "ward": "Ward 2",
+    "issue_type": "waterlogging",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.34,
+    "most_recent_complaint": "2026-07-30",
+    "days_since_last_complaint": 33,
+    "priority_score": 0.331,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00297",
+      "CMP00020",
+      "CMP00162"
+    ],
+    "sample_texts": [
+      "Stagnant water near Ambedkar Park for over a month, mosquito breeding ground, Ward 2 residents worried.",
+      "Heavy waterlogging near Old Bus Stand in Ward 2 since 5 days. Road is completely flooded."
+    ]
+  },
+  {
+    "ward": "Ward 13",
+    "issue_type": "garbage",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.34,
+    "most_recent_complaint": "2026-07-30",
+    "days_since_last_complaint": 33,
+    "priority_score": 0.331,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00299",
+      "CMP00494",
+      "CMP00425"
+    ],
+    "sample_texts": [
+      "Municipal garbage van has skipped our street near Main Bazaar (Ward 13) for 10 days.",
+      "Municipal garbage van has skipped our street near Industrial Area Gate (Ward 13) for several months."
+    ]
+  },
+  {
+    "ward": "Ward 1",
+    "issue_type": "sewage",
+    "complaint_count": 2,
+    "avg_urgency_score": 0.55,
+    "most_recent_complaint": "2026-07-26",
+    "days_since_last_complaint": 37,
+    "priority_score": 0.328,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00130",
+      "CMP00507"
+    ],
+    "sample_texts": [
+      "Sewage line broken near Sector 4 Market, Ward 1, dirty water flowing on road for 5 days.",
+      "Manhole overflow near Industrial Area Gate in Ward 1, extremely unhygienic condition."
+    ]
+  },
+  {
+    "ward": "Ward 1",
+    "issue_type": "pothole",
+    "complaint_count": 3,
+    "avg_urgency_score": 0.667,
+    "most_recent_complaint": "2026-07-08",
+    "days_since_last_complaint": 55,
+    "priority_score": 0.314,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00109",
+      "CMP00431",
+      "CMP00500"
+    ],
+    "sample_texts": [
+      "Large pothole near New Market Complex, Ward 1 causing accidents, two-wheelers keep skidding.",
+      "Same pothole near Industrial Area Gate (Ward 1) reported 2 days ago, still not repaired."
+    ]
+  },
+  {
+    "ward": "Ward 2",
+    "issue_type": "water_supply",
+    "complaint_count": 5,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-12",
+    "days_since_last_complaint": 20,
+    "priority_score": 0.302,
+    "is_recurring_hotspot": true,
+    "sample_complaint_ids": [
+      "CMP00316",
+      "CMP00066",
+      "CMP00397"
+    ],
+    "sample_texts": [
+      "Contaminated water coming from tap near Gandhi Chowk in Ward 2, smells bad.",
+      "No water supply near Main Bazaar, Ward 2 for 2 days, please check pipeline."
+    ]
+  },
+  {
+    "ward": "Ward 14",
+    "issue_type": "sewage",
+    "complaint_count": 1,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-28",
+    "days_since_last_complaint": 4,
+    "priority_score": 0.288,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00471"
+    ],
+    "sample_texts": [
+      "Sewage line broken near Sector 4 Market, Ward 14, dirty water flowing on road for a week."
+    ]
+  },
+  {
+    "ward": "Ward 1",
+    "issue_type": "water_supply",
+    "complaint_count": 3,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-12",
+    "days_since_last_complaint": 20,
+    "priority_score": 0.262,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00246",
+      "CMP00550",
+      "CMP00197"
+    ],
+    "sample_texts": [
+      "Irregular water supply timing in Ward 1 near Petrol Pump Circle, affecting daily routine.",
+      "Irregular water supply timing in Ward 1 near Railway Station Road, affecting daily routine."
+    ]
+  },
+  {
+    "ward": "Ward 6",
+    "issue_type": "streetlight",
+    "complaint_count": 1,
+    "avg_urgency_score": 0.5,
+    "most_recent_complaint": "2026-07-12",
+    "days_since_last_complaint": 51,
+    "priority_score": 0.233,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00176"
+    ],
+    "sample_texts": [
+      "Complaint raised earlier too - streetlight at Govt School (Ward 6) still not fixed."
+    ]
+  },
+  {
+    "ward": "Ward 6",
+    "issue_type": "pothole",
+    "complaint_count": 3,
+    "avg_urgency_score": 0.367,
+    "most_recent_complaint": "2026-07-13",
+    "days_since_last_complaint": 50,
+    "priority_score": 0.23,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00580",
+      "CMP00062",
+      "CMP00183"
+    ],
+    "sample_texts": [
+      "Same pothole near Petrol Pump Circle (Ward 6) reported 5 days ago, still not repaired.",
+      "Road near Main Bazaar in Ward 6 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 13",
+    "issue_type": "sewage",
+    "complaint_count": 2,
+    "avg_urgency_score": 0.3,
+    "most_recent_complaint": "2026-07-22",
+    "days_since_last_complaint": 41,
+    "priority_score": 0.224,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00473",
+      "CMP00032"
+    ],
+    "sample_texts": [
+      "Sewage line broken near Old Bus Stand, Ward 13, dirty water flowing on road for several months.",
+      "Sewage line broken near Riverside Lane, Ward 13, dirty water flowing on road for 10 days."
+    ]
+  },
+  {
+    "ward": "Ward 3",
+    "issue_type": "water_supply",
+    "complaint_count": 4,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-07-29",
+    "days_since_last_complaint": 34,
+    "priority_score": 0.223,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00515",
+      "CMP00250",
+      "CMP00545"
+    ],
+    "sample_texts": [
+      "Irregular water supply timing in Ward 3 near Railway Station Road, affecting daily routine.",
+      "No water supply near Petrol Pump Circle, Ward 3 for 2 days, please check pipeline."
+    ]
+  },
+  {
+    "ward": "Ward 14",
+    "issue_type": "water_supply",
+    "complaint_count": 1,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-10",
+    "days_since_last_complaint": 22,
+    "priority_score": 0.213,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00059"
+    ],
+    "sample_texts": [
+      "Irregular water supply timing in Ward 14 near Gandhi Chowk, affecting daily routine."
+    ]
+  },
+  {
+    "ward": "Ward 15",
+    "issue_type": "pothole",
+    "complaint_count": 2,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-04",
+    "days_since_last_complaint": 28,
+    "priority_score": 0.208,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00033",
+      "CMP00373"
+    ],
+    "sample_texts": [
+      "Road near Ambedkar Park in Ward 15 badly damaged after rains, potholes everywhere.",
+      "Road near Ring Road Junction in Ward 15 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 15",
+    "issue_type": "water_supply",
+    "complaint_count": 1,
+    "avg_urgency_score": 0.5,
+    "most_recent_complaint": "2026-07-01",
+    "days_since_last_complaint": 62,
+    "priority_score": 0.195,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00044"
+    ],
+    "sample_texts": [
+      "No water supply near Ambedkar Park, Ward 15 for several months, please check pipeline."
+    ]
+  },
+  {
+    "ward": "Ward 15",
+    "issue_type": "sewage",
+    "complaint_count": 1,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-08-04",
+    "days_since_last_complaint": 28,
+    "priority_score": 0.188,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00056"
+    ],
+    "sample_texts": [
+      "Sewage line broken near Main Bazaar, Ward 15, dirty water flowing on road for a week."
+    ]
+  },
+  {
+    "ward": "Ward 5",
+    "issue_type": "water_supply",
+    "complaint_count": 2,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-07-29",
+    "days_since_last_complaint": 34,
+    "priority_score": 0.183,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00320",
+      "CMP00403"
+    ],
+    "sample_texts": [
+      "Contaminated water coming from tap near Ambedkar Park in Ward 5, smells bad.",
+      "Contaminated water coming from tap near Old Bus Stand in Ward 5, smells bad."
+    ]
+  },
+  {
+    "ward": "Ward 15",
+    "issue_type": "garbage",
+    "complaint_count": 1,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-07-29",
+    "days_since_last_complaint": 34,
+    "priority_score": 0.163,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00194"
+    ],
+    "sample_texts": [
+      "Municipal garbage van has skipped our street near Riverside Lane (Ward 15) for 10 days."
+    ]
+  },
+  {
+    "ward": "Ward 4",
+    "issue_type": "water_supply",
+    "complaint_count": 1,
+    "avg_urgency_score": 0.1,
+    "most_recent_complaint": "2026-07-22",
+    "days_since_last_complaint": 41,
+    "priority_score": 0.134,
+    "is_recurring_hotspot": false,
+    "sample_complaint_ids": [
+      "CMP00142"
+    ],
+    "sample_texts": [
+      "No water supply near New Market Complex, Ward 4 for 2 days, please check pipeline."
+    ]
+  }
+]

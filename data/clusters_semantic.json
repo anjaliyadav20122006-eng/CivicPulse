@@ -1,0 +1,114 @@
+[
+  {
+    "semantic_cluster_id": 0,
+    "size": 41,
+    "top_terms": [
+      "badly",
+      "potholes",
+      "rains",
+      "damaged",
+      "road",
+      "near"
+    ],
+    "distinct_wards_involved": 13,
+    "sample_text": "Road near Railway Station Road in Ward 13 badly damaged after rains, potholes everywhere."
+  },
+  {
+    "semantic_cluster_id": 1,
+    "size": 68,
+    "top_terms": [
+      "streetlight",
+      "complaint",
+      "raised",
+      "earlier",
+      "fixed",
+      "working"
+    ],
+    "distinct_wards_involved": 14,
+    "sample_text": "Complaint raised earlier too - streetlight at New Market Complex (Ward 1) still not fixed."
+  },
+  {
+    "semantic_cluster_id": 2,
+    "size": 244,
+    "top_terms": [
+      "near",
+      "road",
+      "water",
+      "ward",
+      "days",
+      "garbage"
+    ],
+    "distinct_wards_involved": 15,
+    "sample_text": "Stagnant water near New Market Complex for over a month, mosquito breeding ground, Ward 4 residents worried."
+  },
+  {
+    "semantic_cluster_id": 3,
+    "size": 121,
+    "top_terms": [
+      "causing",
+      "pothole",
+      "near",
+      "repaired",
+      "ago",
+      "reported"
+    ],
+    "distinct_wards_involved": 14,
+    "sample_text": "Illegal dumping of construction waste near Railway Station Road in Ward 3, causing blockage."
+  },
+  {
+    "semantic_cluster_id": 4,
+    "size": 30,
+    "top_terms": [
+      "women",
+      "streetlights",
+      "unsafe",
+      "stretch",
+      "multiple",
+      "feel"
+    ],
+    "distinct_wards_involved": 13,
+    "sample_text": "Multiple streetlights down on the stretch near Ring Road Junction in Ward 9, women feel unsafe."
+  },
+  {
+    "semantic_cluster_id": 5,
+    "size": 39,
+    "top_terms": [
+      "truck",
+      "overflowing",
+      "send",
+      "bin",
+      "collection",
+      "garbage"
+    ],
+    "distinct_wards_involved": 10,
+    "sample_text": "Overflowing garbage bin at Ring Road Junction, Ward 3, please send collection truck."
+  },
+  {
+    "semantic_cluster_id": 6,
+    "size": 32,
+    "top_terms": [
+      "timing",
+      "irregular",
+      "routine",
+      "daily",
+      "affecting",
+      "supply"
+    ],
+    "distinct_wards_involved": 12,
+    "sample_text": "Irregular water supply timing in Ward 6 near Housing Colony Gate, affecting daily routine."
+  },
+  {
+    "semantic_cluster_id": 7,
+    "size": 25,
+    "top_terms": [
+      "hai",
+      "ke",
+      "yehi",
+      "sir",
+      "problem",
+      "se"
+    ],
+    "distinct_wards_involved": 11,
+    "sample_text": "Sir humara area Ward 13 Govt School ke paas paani bhar gaya hai, bahut dino se yehi problem hai."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "ward": "Ward 12",
+    "issue_type": "waterlogging",
+    "priority_level": "CRITICAL",
+    "priority_score": 0.791,
+    "complaint_count": 22,
+    "is_recurring_hotspot": true,
+    "action_route": "HEALTH_ESCALATION",
+    "target_department": "Public Health Department",
+    "routing_reasoning": "Health-hazard keywords detected in complaint text (stagnant water / mosquito breeding). Routed immediately regardless of hotspot status, since public health risk cannot wait for a frequency threshold to be met.",
+    "problem_summary": "22 citizen complaints regarding waterlogging have been logged in Ward 12, with the most recent complaint on 2026-08-28. This location meets the recurring-hotspot threshold and requires escalation.",
+    "grounded_recommendation": "Per DRAINAGE SOP (4. MOSQUITO BREEDING RISK): Any waterlogging complaint text mentioning stagnant water for more than 5 days must be simultaneously forwarded to the Public Health Department for larvicide spraying, regardless of drainage severity tier.",
+    "grounding_note": "Recommendation grounded in retrieved SOP section (relevance score: 0.478).",
+    "sample_complaint_evidence": [
+      "Stagnant water near Main Bazaar for 10 days, mosquito breeding ground, Ward 12 residents worried.",
+      "Stagnant water near Shiv Mandir Road for 10 days, mosquito breeding ground, Ward 12 residents worried."
+    ]
+  },
+  {
+    "ward": "Ward 12",
+    "issue_type": "streetlight",
+    "priority_level": "CRITICAL",
+    "priority_score": 0.787,
+    "complaint_count": 19,
+    "is_recurring_hotspot": true,
+    "action_route": "SAFETY_CORRIDOR_ESCALATION",
+    "target_department": "Electrical & Roads Department (Safety Priority Queue)",
+    "routing_reasoning": "Safety-related keywords detected (unsafe/women/children/accident). Routed to the priority safety queue ahead of the standard maintenance queue, per SOP guidance that safety concerns override routine ordering.",
+    "problem_summary": "19 citizen complaints regarding streetlight have been logged in Ward 12, with the most recent complaint on 2026-08-30. This location meets the recurring-hotspot threshold and requires escalation.",
+    "grounded_recommendation": "Per INFRA SOP (1. STREETLIGHT COMPLAINTS): - Single non-functional streetlight: Repair within 5 working days.",
+    "grounding_note": "Recommendation grounded in retrieved SOP section (relevance score: 0.307).",
+    "sample_complaint_evidence": [
+      "Complaint raised earlier too - streetlight at Gandhi Chowk (Ward 12) still not fixed.",
+      "Streetlight near Ambedkar Park, Ward 12 not working for several months, safety issue at night."
+    ]
+  },
+  {
+    "ward": "Ward 7",
+    "issue_type": "pothole",
+    "priority_level": "CRITICAL",
+    "priority_score": 0.77,
+    "complaint_count": 18,
+    "is_recurring_hotspot": true,
+    "action_route": "CHIEF_ENGINEER_ESCALATION",
+    "target_department": "Chief Engineer's Office",
+    "routing_reasoning": "Recurring hotspot with high priority score (0.77) indicates a systemic infrastructure failure requiring root-cause investigation and capital-works budget consideration, not another one-off repair.",
+    "problem_summary": "18 citizen complaints regarding pothole have been logged in Ward 7, with the most recent complaint on 2026-08-28. This location meets the recurring-hotspot threshold and requires escalation.",
+    "grounded_recommendation": "Per INFRA SOP (2. POTHOLE AND ROAD DAMAGE COMPLAINTS): - Potholes reported with the keyword \"accident\" or \"skidding\" must be inspected within 24 hours and temporarily patched within 72 hours even if permanent resurfacing is scheduled later.",
+    "grounding_note": "Recommendation grounded in retrieved SOP section (relevance score: 0.396).",
+    "sample_complaint_evidence": [
+      "Road near Gandhi Chowk in Ward 7 badly damaged after rains, potholes everywhere.",
+      "Road near Railway Station Road in Ward 7 badly damaged after rains, potholes everywhere."
+    ]
+  },
+  {
+    "ward": "Ward 3",
+    "issue_type": "waterlogging",
+    "priority_level": "CRITICAL",
+    "priority_score": 0.752,
+    "complaint_count": 18,
+    "is_recurring_hotspot": true,
+    "action_route": "HEALTH_ESCALATION",
+    "target_department": "Public Health Department",
+    "routing_reasoning": "Health-hazard keywords detected in complaint text (stagnant water / mosquito breeding). Routed immediately regardless of hotspot status, since public health risk cannot wait for a frequency threshold to be met.",
+    "problem_summary": "18 citizen complaints regarding waterlogging have been logged in Ward 3, with the most recent complaint on 2026-09-01. This location meets the recurring-hotspot threshold and requires escalation.",
+    "grounded_recommendation": "Per DRAINAGE SOP (4. MOSQUITO BREEDING RISK): Any waterlogging complaint text mentioning stagnant water for more than 5 days must be simultaneously forwarded to the Public Health Department for larvicide spraying, regardless of drainage severity tier.",
+    "grounding_note": "Recommendation grounded in retrieved SOP section (relevance score: 0.509).",
+    "sample_complaint_evidence": [
+      "Stagnant water near Main Bazaar for 2 days, mosquito breeding ground, Ward 3 residents worried.",
+      "Stagnant water near Sector 4 Market for several months, mosquito breeding ground, Ward 3 residents worried."
+    ]
+  },
+  {
+    "ward": "Ward 12",
+    "issue_type": "garbage",
+    "priority_level": "CRITICAL",
+    "priority_score": 0.712,
+    "complaint_count": 24,
+    "is_recurring_hotspot": true,
+    "action_route": "ROUTE_REDESIGN_ESCALATION",
+    "target_department": "Sanitation Route Planning Committee",
+    "routing_reasoning": "Recurring garbage-collection failure (24 complaints) indicates a systemic route-planning gap rather than an isolated missed pickup. Routed for route redesign, not repeated ad-hoc dispatch.",
+    "problem_summary": "24 citizen complaints regarding garbage have been logged in Ward 12, with the most recent complaint on 2026-08-30. This location meets the recurring-hotspot threshold and requires escalation.",
+    "grounded_recommendation": "Per WASTE SOP (2. COMPLAINT RESPONSE TIMELINES): - Missed collection (single occurrence): Rectify within 24 hours by dispatching the nearest available collection vehicle.",
+    "grounding_note": "Recommendation grounded in retrieved SOP section (relevance score: 0.083).",
+    "sample_complaint_evidence": [
+      "Municipal garbage van has skipped our street near Petrol Pump Circle (Ward 12) for 10 days.",
+      "Municipal garbage van has skipped our street near Community Hall (Ward 12) for several months."
+    ]
+  }
+]

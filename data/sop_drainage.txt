@@ -1,0 +1,47 @@
+MUNICIPAL SOP DOCUMENT: DRAINAGE & WATERLOGGING MANAGEMENT
+Department of Public Works and Drainage
+Document Reference: PWD-DRAIN-SOP-2024
+
+1. PURPOSE
+This document lays out the Standard Operating Procedure for identifying,
+prioritizing, and resolving waterlogging and drainage complaints raised
+by citizens through the municipal grievance portal.
+
+2. CLASSIFICATION OF WATERLOGGING COMPLAINTS
+Waterlogging complaints are classified into three severity tiers:
+- Tier 1 (Critical): Water entering residential premises, or waterlogging
+  persisting for more than 72 hours after rainfall stops. Requires
+  emergency pumping within 24 hours and a site inspection by the Ward
+  Engineer within 48 hours.
+- Tier 2 (Moderate): Road-level waterlogging affecting vehicular movement
+  but not entering homes. Requires drain desilting within 7 days.
+- Tier 3 (Minor): Temporary puddling that clears within a few hours of
+  rain stopping. Logged for seasonal drain-cleaning schedule, no
+  emergency action required.
+
+3. RECURRING HOTSPOT PROTOCOL
+If a single location (identified by ward and landmark) generates 5 or
+more waterlogging complaints within a single monsoon season, it must be
+escalated to the Chief Engineer's office as a "Recurring Drainage
+Hotspot." Recurring hotspots require:
+- A root-cause survey (checking for undersized culverts, illegal
+  encroachment on drains, or silt accumulation).
+- Inclusion in the following year's capital works budget for permanent
+  remediation (culvert widening, new stormwater drain construction).
+- A public notice board at the site indicating remediation timeline.
+
+4. MOSQUITO BREEDING RISK
+Any waterlogging complaint text mentioning stagnant water for more than
+5 days must be simultaneously forwarded to the Public Health Department
+for larvicide spraying, regardless of drainage severity tier.
+
+5. RESOURCE ALLOCATION PRIORITY
+Wards with three or more recurring hotspots in the same season should
+receive priority allocation of desilting machinery and manpower over
+wards with isolated, non-recurring complaints. This ensures equitable
+but impact-weighted resource distribution.
+
+6. CITIZEN COMMUNICATION
+For every Tier 1 or recurring hotspot complaint, the ward office must
+send an SMS/notification to the complainant within 48 hours acknowledging
+receipt and providing an expected resolution timeline.

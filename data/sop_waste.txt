@@ -1,0 +1,42 @@
+MUNICIPAL SOP DOCUMENT: SOLID WASTE MANAGEMENT
+Department of Sanitation
+Document Reference: SAN-WASTE-SOP-2024
+
+1. PURPOSE
+This SOP governs response timelines and escalation for garbage collection,
+overflowing bins, and illegal dumping complaints.
+
+2. COMPLAINT RESPONSE TIMELINES
+- Missed collection (single occurrence): Rectify within 24 hours by
+  dispatching the nearest available collection vehicle.
+- Overflowing community bin: Rectify within 12 hours; if a bin overflows
+  more than twice in a month at the same location, its collection
+  frequency must be permanently increased from alternate-day to daily.
+- Illegal dumping (construction debris, bulk waste): Requires a
+  dedicated debris-clearing team, response within 48 hours, and a fine
+  notice if the dumping party can be identified via municipal cameras
+  or resident testimony.
+
+3. RECURRING NON-COLLECTION HOTSPOT PROTOCOL
+If a street or locality generates 5 or more missed-collection complaints
+within a 60-day window, this indicates a systemic route-planning failure
+rather than a one-off lapse. Such cases must be escalated to the
+Sanitation Route Planning Committee for route redesign, not merely
+repeated ad-hoc dispatches.
+
+4. HEALTH AND HYGIENE ESCALATION
+Complaints mentioning "foul smell," "health hazard," or proximity to a
+school/hospital must be treated as high priority regardless of whether
+the 5-complaint recurring threshold has been met, and addressed within
+12 hours.
+
+5. EQUITY CONSIDERATION
+Wards with historically low complaint volume should not be assumed to
+have fewer sanitation issues -- low complaint volume may reflect lower
+digital literacy or grievance-portal awareness rather than lower actual
+need. Sanitation supervisors should conduct periodic physical audits in
+such wards independent of complaint volume.
+
+6. REPORTING
+Monthly sanitation performance reports must break down missed-collection
+incidents by ward to identify systemic versus isolated failures.

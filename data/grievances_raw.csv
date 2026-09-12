@@ -1,0 +1,601 @@
+complaint_id,date,raw_text,_true_ward,_true_issue
+CMP00103,2026-06-01,"Sir humara area Ward 13 Govt School ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 13,waterlogging
+CMP00164,2026-06-01,"Stagnant water near New Market Complex for over a month, mosquito breeding ground, Ward 4 residents worried.",Ward 4,waterlogging
+CMP00255,2026-06-01,"Contaminated water coming from tap near Shiv Mandir Road in Ward 12, smells bad.",Ward 12,water_supply
+CMP00484,2026-06-01,"Illegal dumping of construction waste near Railway Station Road in Ward 3, causing blockage.",Ward 3,garbage
+CMP00493,2026-06-01,Heavy waterlogging near Old Bus Stand in Ward 8 since 10 days. Road is completely flooded.,Ward 8,waterlogging
+CMP00140,2026-06-02,"Road near Railway Station Road in Ward 13 badly damaged after rains, potholes everywhere.",Ward 13,pothole
+CMP00400,2026-06-02,"Road near Ambedkar Park in Ward 3 badly damaged after rains, potholes everywhere.",Ward 3,pothole
+CMP00590,2026-06-02,"Sir humara area Ward 11 Gandhi Chowk ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 11,waterlogging
+CMP00600,2026-06-02,Complaint raised earlier too - streetlight at New Market Complex (Ward 1) still not fixed.,Ward 1,streetlight
+CMP00225,2026-06-03,"Overflowing garbage bin at Ring Road Junction, Ward 3, please send collection truck.",Ward 3,garbage
+CMP00284,2026-06-03,"Stagnant water near Main Bazaar for 10 days, mosquito breeding ground, Ward 12 residents worried.",Ward 12,waterlogging
+CMP00311,2026-06-03,"Stagnant water near Shiv Mandir Road for 10 days, mosquito breeding ground, Ward 12 residents worried.",Ward 12,waterlogging
+CMP00461,2026-06-03,"Road near Petrol Pump Circle in Ward 10 badly damaged after rains, potholes everywhere.",Ward 10,pothole
+CMP00003,2026-06-04,"Drain overflow causing water to enter houses near Main Bazaar, Ward 1. Please help urgently.",Ward 1,waterlogging
+CMP00117,2026-06-04,"Every monsoon the road near Railway Station Road in Ward 12 gets waterlogged, no permanent solution done yet.",Ward 12,waterlogging
+CMP00127,2026-06-04,Complaint raised earlier too - streetlight at Govt School (Ward 11) still not fixed.,Ward 11,streetlight
+CMP00157,2026-06-04,"Illegal dumping of construction waste near Ring Road Junction in Ward 1, causing blockage.",Ward 1,garbage
+CMP00224,2026-06-04,"No water supply near Petrol Pump Circle, Ward 7 for several months, please check pipeline.",Ward 7,water_supply
+CMP00287,2026-06-05,Complaint raised earlier too - streetlight at Ambedkar Park (Ward 7) still not fixed.,Ward 7,streetlight
+CMP00052,2026-06-06,"Sewage line broken near Ring Road Junction, Ward 7, dirty water flowing on road for over a month.",Ward 7,sewage
+CMP00089,2026-06-06,"Drain overflow causing water to enter houses near Old Bus Stand, Ward 10. Please help urgently.",Ward 10,waterlogging
+CMP00272,2026-06-06,"Multiple streetlights down on the stretch near Ring Road Junction in Ward 9, women feel unsafe.",Ward 9,streetlight
+CMP00325,2026-06-06,"Stagnant water near Shiv Mandir Road for 3 weeks, mosquito breeding ground, Ward 11 residents worried.",Ward 11,waterlogging
+CMP00535,2026-06-06,"Illegal dumping of construction waste near Main Bazaar in Ward 8, causing blockage.",Ward 8,garbage
+CMP00141,2026-06-07,"Multiple streetlights down on the stretch near Shiv Mandir Road in Ward 8, women feel unsafe.",Ward 8,streetlight
+CMP00166,2026-06-07,"Irregular water supply timing in Ward 6 near Housing Colony Gate, affecting daily routine.",Ward 6,water_supply
+CMP00240,2026-06-07,"Manhole overflow near New Market Complex in Ward 12, extremely unhygienic condition.",Ward 12,sewage
+CMP00249,2026-06-07,"Irregular water supply timing in Ward 11 near Ring Road Junction, affecting daily routine.",Ward 11,water_supply
+CMP00458,2026-06-07,"Streetlight near New Market Complex, Ward 13 not working for 5 days, safety issue at night.",Ward 13,streetlight
+CMP00014,2026-06-08,"Overflowing garbage bin at Petrol Pump Circle, Ward 7, please send collection truck.",Ward 7,garbage
+CMP00035,2026-06-08,Heavy waterlogging near Riverside Lane in Ward 4 since 5 days. Road is completely flooded.,Ward 4,waterlogging
+CMP00045,2026-06-08,"Streetlight near New Market Complex, Ward 3 not working for 3 weeks, safety issue at night.",Ward 3,streetlight
+CMP00326,2026-06-08,"Manhole overflow near Community Hall in Ward 11, extremely unhygienic condition.",Ward 11,sewage
+CMP00345,2026-06-08,"Sir humara area Ward 12 Ambedkar Park ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 12,waterlogging
+CMP00381,2026-06-08,Complaint raised earlier too - streetlight at Ambedkar Park (Ward 3) still not fixed.,Ward 3,streetlight
+CMP00419,2026-06-08,Complaint raised earlier too - streetlight at Housing Colony Gate (Ward 11) still not fixed.,Ward 11,streetlight
+CMP00015,2026-06-09,"Every monsoon the road near Govt School in Ward 4 gets waterlogged, no permanent solution done yet.",Ward 4,waterlogging
+CMP00121,2026-06-09,Municipal garbage van has skipped our street near Petrol Pump Circle (Ward 12) for 10 days.,Ward 12,garbage
+CMP00185,2026-06-09,Complaint raised earlier too - streetlight at Gandhi Chowk (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00226,2026-06-09,"Stagnant water near Main Bazaar for 2 days, mosquito breeding ground, Ward 3 residents worried.",Ward 3,waterlogging
+CMP00246,2026-06-09,"Irregular water supply timing in Ward 1 near Petrol Pump Circle, affecting daily routine.",Ward 1,water_supply
+CMP00575,2026-06-09,"No water supply near Gandhi Chowk, Ward 10 for over a month, please check pipeline.",Ward 10,water_supply
+CMP00580,2026-06-09,"Same pothole near Petrol Pump Circle (Ward 6) reported 5 days ago, still not repaired.",Ward 6,pothole
+CMP00595,2026-06-09,"Sir humara area Ward 12 Gandhi Chowk ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 12,waterlogging
+CMP00042,2026-06-10,"Stagnant water near Sector 4 Market for several months, mosquito breeding ground, Ward 3 residents worried.",Ward 3,waterlogging
+CMP00153,2026-06-10,"Every monsoon the road near New Market Complex in Ward 4 gets waterlogged, no permanent solution done yet.",Ward 4,waterlogging
+CMP00257,2026-06-10,Complaint raised earlier too - streetlight at Industrial Area Gate (Ward 4) still not fixed.,Ward 4,streetlight
+CMP00258,2026-06-10,"Road near Gandhi Chowk in Ward 7 badly damaged after rains, potholes everywhere.",Ward 7,pothole
+CMP00342,2026-06-10,"Multiple streetlights down on the stretch near New Market Complex in Ward 11, women feel unsafe.",Ward 11,streetlight
+CMP00478,2026-06-10,"Garbage not collected for a week near Govt School, Ward 11. Foul smell spreading.",Ward 11,garbage
+CMP00547,2026-06-10,Municipal garbage van has skipped our street near Govt School (Ward 8) for 3 weeks.,Ward 8,garbage
+CMP00050,2026-06-11,"Sewage line broken near Gandhi Chowk, Ward 7, dirty water flowing on road for over a month.",Ward 7,sewage
+CMP00087,2026-06-11,Complaint raised earlier too - streetlight at Old Bus Stand (Ward 10) still not fixed.,Ward 10,streetlight
+CMP00111,2026-06-11,Municipal garbage van has skipped our street near Community Hall (Ward 12) for several months.,Ward 12,garbage
+CMP00347,2026-06-11,"Sir humara area Ward 13 Ambedkar Park ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 13,waterlogging
+CMP00415,2026-06-11,"Irregular water supply timing in Ward 12 near Industrial Area Gate, affecting daily routine.",Ward 12,water_supply
+CMP00467,2026-06-11,"Road near Petrol Pump Circle in Ward 4 badly damaged after rains, potholes everywhere.",Ward 4,pothole
+CMP00488,2026-06-11,"Stagnant water near Govt School for several months, mosquito breeding ground, Ward 12 residents worried.",Ward 12,waterlogging
+CMP00578,2026-06-11,Complaint raised earlier too - streetlight at Old Bus Stand (Ward 2) still not fixed.,Ward 2,streetlight
+CMP00186,2026-06-12,"Road near Sector 4 Market in Ward 4 badly damaged after rains, potholes everywhere.",Ward 4,pothole
+CMP00271,2026-06-12,"Illegal dumping of construction waste near Railway Station Road in Ward 1, causing blockage.",Ward 1,garbage
+CMP00443,2026-06-12,"Road near New Market Complex in Ward 3 badly damaged after rains, potholes everywhere.",Ward 3,pothole
+CMP00485,2026-06-12,"Multiple streetlights down on the stretch near Railway Station Road in Ward 13, women feel unsafe.",Ward 13,streetlight
+CMP00559,2026-06-12,"Large pothole near Govt School, Ward 5 causing accidents, two-wheelers keep skidding.",Ward 5,pothole
+CMP00581,2026-06-12,"Streetlight near Gandhi Chowk, Ward 5 not working for a week, safety issue at night.",Ward 5,streetlight
+CMP00235,2026-06-13,"Contaminated water coming from tap near Govt School in Ward 7, smells bad.",Ward 7,water_supply
+CMP00237,2026-06-13,Heavy waterlogging near Railway Station Road in Ward 13 since 3 weeks. Road is completely flooded.,Ward 13,waterlogging
+CMP00286,2026-06-13,"Sewage line broken near Railway Station Road, Ward 3, dirty water flowing on road for 10 days.",Ward 3,sewage
+CMP00300,2026-06-13,"Drain overflow causing water to enter houses near Gandhi Chowk, Ward 7. Please help urgently.",Ward 7,waterlogging
+CMP00060,2026-06-14,"Large pothole near Community Hall, Ward 5 causing accidents, two-wheelers keep skidding.",Ward 5,pothole
+CMP00122,2026-06-14,Municipal garbage van has skipped our street near New Market Complex (Ward 7) for 3 weeks.,Ward 7,garbage
+CMP00195,2026-06-14,"Stagnant water near New Market Complex for 3 weeks, mosquito breeding ground, Ward 12 residents worried.",Ward 12,waterlogging
+CMP00261,2026-06-14,"Road near Railway Station Road in Ward 7 badly damaged after rains, potholes everywhere.",Ward 7,pothole
+CMP00486,2026-06-14,Complaint raised earlier too - streetlight at Main Bazaar (Ward 3) still not fixed.,Ward 3,streetlight
+CMP00505,2026-06-14,"Irregular water supply timing in Ward 10 near Petrol Pump Circle, affecting daily routine.",Ward 10,water_supply
+CMP00065,2026-06-15,"Multiple streetlights down on the stretch near Main Bazaar in Ward 11, women feel unsafe.",Ward 11,streetlight
+CMP00116,2026-06-15,"Sir humara area Ward 12 Riverside Lane ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 12,waterlogging
+CMP00169,2026-06-15,"Streetlight near Sector 4 Market, Ward 8 not working for several months, safety issue at night.",Ward 8,streetlight
+CMP00379,2026-06-15,"Large pothole near Ring Road Junction, Ward 3 causing accidents, two-wheelers keep skidding.",Ward 3,pothole
+CMP00416,2026-06-15,"Multiple streetlights down on the stretch near Railway Station Road in Ward 7, women feel unsafe.",Ward 7,streetlight
+CMP00430,2026-06-15,"Illegal dumping of construction waste near Sector 4 Market in Ward 4, causing blockage.",Ward 4,garbage
+CMP00511,2026-06-15,"Multiple streetlights down on the stretch near Govt School in Ward 15, women feel unsafe.",Ward 15,streetlight
+CMP00534,2026-06-15,"Contaminated water coming from tap near Main Bazaar in Ward 8, smells bad.",Ward 8,water_supply
+CMP00572,2026-06-15,"Drain overflow causing water to enter houses near Housing Colony Gate, Ward 5. Please help urgently.",Ward 5,waterlogging
+CMP00447,2026-06-16,"Sewage line broken near Ambedkar Park, Ward 5, dirty water flowing on road for a week.",Ward 5,sewage
+CMP00107,2026-06-17,"Overflowing garbage bin at New Market Complex, Ward 10, please send collection truck.",Ward 10,garbage
+CMP00179,2026-06-17,"Overflowing garbage bin at Housing Colony Gate, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00223,2026-06-17,"Road near New Market Complex in Ward 12 badly damaged after rains, potholes everywhere.",Ward 12,pothole
+CMP00556,2026-06-17,"Stagnant water near Sector 4 Market for 5 days, mosquito breeding ground, Ward 7 residents worried.",Ward 7,waterlogging
+CMP00001,2026-06-18,"Every monsoon the road near Sector 4 Market in Ward 9 gets waterlogged, no permanent solution done yet.",Ward 9,waterlogging
+CMP00017,2026-06-18,"Manhole overflow near Old Bus Stand in Ward 7, extremely unhygienic condition.",Ward 7,sewage
+CMP00294,2026-06-18,"Sewage line broken near Industrial Area Gate, Ward 7, dirty water flowing on road for over a month.",Ward 7,sewage
+CMP00315,2026-06-18,"Same pothole near Old Bus Stand (Ward 7) reported several months ago, still not repaired.",Ward 7,pothole
+CMP00370,2026-06-18,"Garbage not collected for 2 days near Gandhi Chowk, Ward 9. Foul smell spreading.",Ward 9,garbage
+CMP00394,2026-06-18,Municipal garbage van has skipped our street near Railway Station Road (Ward 2) for 5 days.,Ward 2,garbage
+CMP00426,2026-06-18,"Same pothole near New Market Complex (Ward 7) reported over a month ago, still not repaired.",Ward 7,pothole
+CMP00501,2026-06-18,"Stagnant water near Petrol Pump Circle for 3 weeks, mosquito breeding ground, Ward 12 residents worried.",Ward 12,waterlogging
+CMP00543,2026-06-18,Complaint raised earlier too - streetlight at New Market Complex (Ward 13) still not fixed.,Ward 13,streetlight
+CMP00567,2026-06-18,"No water supply near Ambedkar Park, Ward 10 for 2 days, please check pipeline.",Ward 10,water_supply
+CMP00222,2026-06-19,"Drain overflow causing water to enter houses near Shiv Mandir Road, Ward 3. Please help urgently.",Ward 3,waterlogging
+CMP00297,2026-06-19,"Stagnant water near Ambedkar Park for over a month, mosquito breeding ground, Ward 2 residents worried.",Ward 2,waterlogging
+CMP00389,2026-06-19,Municipal garbage van has skipped our street near New Market Complex (Ward 10) for 10 days.,Ward 10,garbage
+CMP00546,2026-06-19,"Irregular water supply timing in Ward 12 near Govt School, affecting daily routine.",Ward 12,water_supply
+CMP00564,2026-06-19,"Drain overflow causing water to enter houses near Petrol Pump Circle, Ward 12. Please help urgently.",Ward 12,waterlogging
+CMP00143,2026-06-20,Complaint raised earlier too - streetlight at Gandhi Chowk (Ward 7) still not fixed.,Ward 7,streetlight
+CMP00215,2026-06-20,"Same pothole near Govt School (Ward 10) reported over a month ago, still not repaired.",Ward 10,pothole
+CMP00459,2026-06-20,"Overflowing garbage bin at Railway Station Road, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00005,2026-06-21,"Garbage not collected for several months near Industrial Area Gate, Ward 7. Foul smell spreading.",Ward 7,garbage
+CMP00013,2026-06-21,"Same pothole near Riverside Lane (Ward 2) reported a week ago, still not repaired.",Ward 2,pothole
+CMP00020,2026-06-21,Heavy waterlogging near Old Bus Stand in Ward 2 since 5 days. Road is completely flooded.,Ward 2,waterlogging
+CMP00064,2026-06-21,"Overflowing garbage bin at Petrol Pump Circle, Ward 1, please send collection truck.",Ward 1,garbage
+CMP00410,2026-06-21,Heavy waterlogging near Housing Colony Gate in Ward 10 since 10 days. Road is completely flooded.,Ward 10,waterlogging
+CMP00516,2026-06-21,"Same pothole near Old Bus Stand (Ward 13) reported over a month ago, still not repaired.",Ward 13,pothole
+CMP00555,2026-06-21,"Streetlight near Ambedkar Park, Ward 12 not working for several months, safety issue at night.",Ward 12,streetlight
+CMP00469,2026-06-22,Complaint raised earlier too - streetlight at Gandhi Chowk (Ward 7) still not fixed.,Ward 7,streetlight
+CMP00489,2026-06-22,"Streetlight near Ring Road Junction, Ward 11 not working for over a month, safety issue at night.",Ward 11,streetlight
+CMP00515,2026-06-22,"Irregular water supply timing in Ward 3 near Railway Station Road, affecting daily routine.",Ward 3,water_supply
+CMP00588,2026-06-22,Municipal garbage van has skipped our street near New Market Complex (Ward 7) for over a month.,Ward 7,garbage
+CMP00070,2026-06-23,"Large pothole near New Market Complex, Ward 14 causing accidents, two-wheelers keep skidding.",Ward 14,pothole
+CMP00148,2026-06-23,"Garbage not collected for a week near Old Bus Stand, Ward 9. Foul smell spreading.",Ward 9,garbage
+CMP00265,2026-06-23,"Overflowing garbage bin at Community Hall, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00591,2026-06-23,"Multiple streetlights down on the stretch near Ambedkar Park in Ward 4, women feel unsafe.",Ward 4,streetlight
+CMP00109,2026-06-24,"Large pothole near New Market Complex, Ward 1 causing accidents, two-wheelers keep skidding.",Ward 1,pothole
+CMP00332,2026-06-24,"Garbage not collected for 5 days near Gandhi Chowk, Ward 9. Foul smell spreading.",Ward 9,garbage
+CMP00344,2026-06-24,"Sir humara area Ward 7 Petrol Pump Circle ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 7,waterlogging
+CMP00038,2026-06-25,Municipal garbage van has skipped our street near Industrial Area Gate (Ward 8) for 3 weeks.,Ward 8,garbage
+CMP00083,2026-06-25,"Illegal dumping of construction waste near Main Bazaar in Ward 7, causing blockage.",Ward 7,garbage
+CMP00137,2026-06-25,"Illegal dumping of construction waste near Railway Station Road in Ward 11, causing blockage.",Ward 11,garbage
+CMP00118,2026-06-26,"Multiple streetlights down on the stretch near Govt School in Ward 13, women feel unsafe.",Ward 13,streetlight
+CMP00316,2026-06-26,"Contaminated water coming from tap near Gandhi Chowk in Ward 2, smells bad.",Ward 2,water_supply
+CMP00369,2026-06-26,"Manhole overflow near Industrial Area Gate in Ward 7, extremely unhygienic condition.",Ward 7,sewage
+CMP00598,2026-06-26,"Illegal dumping of construction waste near Ring Road Junction in Ward 11, causing blockage.",Ward 11,garbage
+CMP00053,2026-06-27,"Illegal dumping of construction waste near Ambedkar Park in Ward 9, causing blockage.",Ward 9,garbage
+CMP00068,2026-06-27,"No water supply near Ambedkar Park, Ward 12 for 10 days, please check pipeline.",Ward 12,water_supply
+CMP00147,2026-06-27,"Same pothole near Riverside Lane (Ward 5) reported 2 days ago, still not repaired.",Ward 5,pothole
+CMP00418,2026-06-27,Municipal garbage van has skipped our street near Railway Station Road (Ward 3) for 5 days.,Ward 3,garbage
+CMP00540,2026-06-27,"Overflowing garbage bin at Industrial Area Gate, Ward 9, please send collection truck.",Ward 9,garbage
+CMP00136,2026-06-28,Complaint raised earlier too - streetlight at Old Bus Stand (Ward 3) still not fixed.,Ward 3,streetlight
+CMP00251,2026-06-28,Municipal garbage van has skipped our street near Govt School (Ward 7) for 10 days.,Ward 7,garbage
+CMP00254,2026-06-28,"Large pothole near Sector 4 Market, Ward 7 causing accidents, two-wheelers keep skidding.",Ward 7,pothole
+CMP00303,2026-06-28,Heavy waterlogging near Gandhi Chowk in Ward 7 since 10 days. Road is completely flooded.,Ward 7,waterlogging
+CMP00004,2026-06-29,"Same pothole near Main Bazaar (Ward 8) reported 3 weeks ago, still not repaired.",Ward 8,pothole
+CMP00092,2026-06-29,"Large pothole near Industrial Area Gate, Ward 3 causing accidents, two-wheelers keep skidding.",Ward 3,pothole
+CMP00211,2026-06-29,"Same pothole near Shiv Mandir Road (Ward 7) reported over a month ago, still not repaired.",Ward 7,pothole
+CMP00253,2026-06-29,Complaint raised earlier too - streetlight at Community Hall (Ward 10) still not fixed.,Ward 10,streetlight
+CMP00412,2026-06-29,"Manhole overflow near Shiv Mandir Road in Ward 3, extremely unhygienic condition.",Ward 3,sewage
+CMP00436,2026-06-29,"Overflowing garbage bin at Petrol Pump Circle, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00440,2026-06-29,"Contaminated water coming from tap near Sector 4 Market in Ward 7, smells bad.",Ward 7,water_supply
+CMP00452,2026-06-29,Municipal garbage van has skipped our street near Gandhi Chowk (Ward 12) for over a month.,Ward 12,garbage
+CMP00532,2026-06-29,"Streetlight near Ring Road Junction, Ward 12 not working for 2 days, safety issue at night.",Ward 12,streetlight
+CMP00010,2026-06-30,"Road near Railway Station Road in Ward 2 badly damaged after rains, potholes everywhere.",Ward 2,pothole
+CMP00177,2026-06-30,"Sewage line broken near Ring Road Junction, Ward 12, dirty water flowing on road for 3 weeks.",Ward 12,sewage
+CMP00210,2026-06-30,"Illegal dumping of construction waste near Railway Station Road in Ward 5, causing blockage.",Ward 5,garbage
+CMP00234,2026-06-30,"Streetlight near Govt School, Ward 12 not working for 3 weeks, safety issue at night.",Ward 12,streetlight
+CMP00393,2026-06-30,"Sir humara area Ward 4 Sector 4 Market ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 4,waterlogging
+CMP00429,2026-06-30,"Road near Main Bazaar in Ward 7 badly damaged after rains, potholes everywhere.",Ward 7,pothole
+CMP00433,2026-06-30,Heavy waterlogging near Govt School in Ward 10 since 3 weeks. Road is completely flooded.,Ward 10,waterlogging
+CMP00036,2026-07-01,"Manhole overflow near Railway Station Road in Ward 4, extremely unhygienic condition.",Ward 4,sewage
+CMP00044,2026-07-01,"No water supply near Ambedkar Park, Ward 15 for several months, please check pipeline.",Ward 15,water_supply
+CMP00051,2026-07-01,Heavy waterlogging near Petrol Pump Circle in Ward 12 since several months. Road is completely flooded.,Ward 12,waterlogging
+CMP00088,2026-07-01,"Same pothole near Shiv Mandir Road (Ward 5) reported 2 days ago, still not repaired.",Ward 5,pothole
+CMP00299,2026-07-01,Municipal garbage van has skipped our street near Main Bazaar (Ward 13) for 10 days.,Ward 13,garbage
+CMP00305,2026-07-01,"Illegal dumping of construction waste near Railway Station Road in Ward 3, causing blockage.",Ward 3,garbage
+CMP00431,2026-07-01,"Same pothole near Industrial Area Gate (Ward 1) reported 2 days ago, still not repaired.",Ward 1,pothole
+CMP00475,2026-07-01,"Manhole overflow near Old Bus Stand in Ward 12, extremely unhygienic condition.",Ward 12,sewage
+CMP00538,2026-07-01,Heavy waterlogging near Industrial Area Gate in Ward 12 since several months. Road is completely flooded.,Ward 12,waterlogging
+CMP00091,2026-07-02,"Road near Housing Colony Gate in Ward 8 badly damaged after rains, potholes everywhere.",Ward 8,pothole
+CMP00093,2026-07-02,"Manhole overflow near Gandhi Chowk in Ward 3, extremely unhygienic condition.",Ward 3,sewage
+CMP00097,2026-07-02,"Road near Housing Colony Gate in Ward 12 badly damaged after rains, potholes everywhere.",Ward 12,pothole
+CMP00113,2026-07-02,"Sewage line broken near Industrial Area Gate, Ward 2, dirty water flowing on road for 2 days.",Ward 2,sewage
+CMP00126,2026-07-02,"No water supply near Community Hall, Ward 12 for 3 weeks, please check pipeline.",Ward 12,water_supply
+CMP00407,2026-07-02,"Drain overflow causing water to enter houses near Housing Colony Gate, Ward 10. Please help urgently.",Ward 10,waterlogging
+CMP00497,2026-07-02,"Road near Ring Road Junction in Ward 5 badly damaged after rains, potholes everywhere.",Ward 5,pothole
+CMP00062,2026-07-03,"Road near Main Bazaar in Ward 6 badly damaged after rains, potholes everywhere.",Ward 6,pothole
+CMP00115,2026-07-03,"Streetlight near Housing Colony Gate, Ward 10 not working for 5 days, safety issue at night.",Ward 10,streetlight
+CMP00421,2026-07-03,"Irregular water supply timing in Ward 7 near Gandhi Chowk, affecting daily routine.",Ward 7,water_supply
+CMP00442,2026-07-03,"Overflowing garbage bin at Govt School, Ward 7, please send collection truck.",Ward 7,garbage
+CMP00076,2026-07-04,"Illegal dumping of construction waste near Gandhi Chowk in Ward 9, causing blockage.",Ward 9,garbage
+CMP00128,2026-07-04,Municipal garbage van has skipped our street near Sector 4 Market (Ward 7) for 10 days.,Ward 7,garbage
+CMP00182,2026-07-04,"Sewage line broken near Housing Colony Gate, Ward 12, dirty water flowing on road for several months.",Ward 12,sewage
+CMP00333,2026-07-04,"Garbage not collected for several months near Community Hall, Ward 7. Foul smell spreading.",Ward 7,garbage
+CMP00158,2026-07-05,"Sewage line broken near Industrial Area Gate, Ward 2, dirty water flowing on road for 5 days.",Ward 2,sewage
+CMP00250,2026-07-05,"No water supply near Petrol Pump Circle, Ward 3 for 2 days, please check pipeline.",Ward 3,water_supply
+CMP00358,2026-07-05,"Drain overflow causing water to enter houses near Housing Colony Gate, Ward 7. Please help urgently.",Ward 7,waterlogging
+CMP00391,2026-07-05,"Streetlight near New Market Complex, Ward 4 not working for over a month, safety issue at night.",Ward 4,streetlight
+CMP00542,2026-07-05,"Manhole overflow near Community Hall in Ward 3, extremely unhygienic condition.",Ward 3,sewage
+CMP00585,2026-07-05,"Large pothole near Shiv Mandir Road, Ward 12 causing accidents, two-wheelers keep skidding.",Ward 12,pothole
+CMP00063,2026-07-06,"No water supply near Petrol Pump Circle, Ward 12 for 3 weeks, please check pipeline.",Ward 12,water_supply
+CMP00098,2026-07-06,Municipal garbage van has skipped our street near Petrol Pump Circle (Ward 12) for a week.,Ward 12,garbage
+CMP00172,2026-07-06,"Overflowing garbage bin at New Market Complex, Ward 8, please send collection truck.",Ward 8,garbage
+CMP00216,2026-07-06,"Road near Ring Road Junction in Ward 12 badly damaged after rains, potholes everywhere.",Ward 12,pothole
+CMP00269,2026-07-06,"Stagnant water near Petrol Pump Circle for 10 days, mosquito breeding ground, Ward 3 residents worried.",Ward 3,waterlogging
+CMP00548,2026-07-06,"No water supply near Govt School, Ward 9 for over a month, please check pipeline.",Ward 9,water_supply
+CMP00162,2026-07-07,"Stagnant water near Riverside Lane for 3 weeks, mosquito breeding ground, Ward 2 residents worried.",Ward 2,waterlogging
+CMP00290,2026-07-07,"Overflowing garbage bin at Housing Colony Gate, Ward 7, please send collection truck.",Ward 7,garbage
+CMP00296,2026-07-07,"Same pothole near New Market Complex (Ward 13) reported 2 days ago, still not repaired.",Ward 13,pothole
+CMP00301,2026-07-07,"Large pothole near Old Bus Stand, Ward 12 causing accidents, two-wheelers keep skidding.",Ward 12,pothole
+CMP00363,2026-07-07,"Illegal dumping of construction waste near Gandhi Chowk in Ward 7, causing blockage.",Ward 7,garbage
+CMP00364,2026-07-07,"Irregular water supply timing in Ward 7 near Petrol Pump Circle, affecting daily routine.",Ward 7,water_supply
+CMP00170,2026-07-08,"Drain overflow causing water to enter houses near Housing Colony Gate, Ward 7. Please help urgently.",Ward 7,waterlogging
+CMP00188,2026-07-08,"Every monsoon the road near Industrial Area Gate in Ward 5 gets waterlogged, no permanent solution done yet.",Ward 5,waterlogging
+CMP00196,2026-07-08,Complaint raised earlier too - streetlight at Community Hall (Ward 4) still not fixed.,Ward 4,streetlight
+CMP00404,2026-07-08,"Large pothole near Riverside Lane, Ward 9 causing accidents, two-wheelers keep skidding.",Ward 9,pothole
+CMP00434,2026-07-08,"No water supply near Old Bus Stand, Ward 7 for over a month, please check pipeline.",Ward 7,water_supply
+CMP00500,2026-07-08,"Same pothole near Sector 4 Market (Ward 1) reported 3 weeks ago, still not repaired.",Ward 1,pothole
+CMP00084,2026-07-09,"Sewage line broken near Ring Road Junction, Ward 7, dirty water flowing on road for over a month.",Ward 7,sewage
+CMP00212,2026-07-09,"Road near Ambedkar Park in Ward 9 badly damaged after rains, potholes everywhere.",Ward 9,pothole
+CMP00353,2026-07-09,"Sir humara area Ward 9 Community Hall ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 9,waterlogging
+CMP00385,2026-07-09,"Streetlight near Community Hall, Ward 5 not working for over a month, safety issue at night.",Ward 5,streetlight
+CMP00428,2026-07-09,"Sewage line broken near Industrial Area Gate, Ward 3, dirty water flowing on road for 2 days.",Ward 3,sewage
+CMP00439,2026-07-09,Municipal garbage van has skipped our street near Govt School (Ward 12) for a week.,Ward 12,garbage
+CMP00597,2026-07-09,"Illegal dumping of construction waste near Ring Road Junction in Ward 7, causing blockage.",Ward 7,garbage
+CMP00028,2026-07-10,"Every monsoon the road near Ambedkar Park in Ward 6 gets waterlogged, no permanent solution done yet.",Ward 6,waterlogging
+CMP00168,2026-07-10,"Sewage line broken near Riverside Lane, Ward 3, dirty water flowing on road for a week.",Ward 3,sewage
+CMP00248,2026-07-10,"Illegal dumping of construction waste near Old Bus Stand in Ward 4, causing blockage.",Ward 4,garbage
+CMP00262,2026-07-10,"Same pothole near Railway Station Road (Ward 4) reported 3 weeks ago, still not repaired.",Ward 4,pothole
+CMP00291,2026-07-10,"No water supply near Main Bazaar, Ward 11 for a week, please check pipeline.",Ward 11,water_supply
+CMP00375,2026-07-10,"Garbage not collected for over a month near Govt School, Ward 12. Foul smell spreading.",Ward 12,garbage
+CMP00525,2026-07-10,"Road near Railway Station Road in Ward 8 badly damaged after rains, potholes everywhere.",Ward 8,pothole
+CMP00582,2026-07-10,"Sir humara area Ward 13 Ring Road Junction ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 13,waterlogging
+CMP00099,2026-07-11,"Large pothole near Community Hall, Ward 7 causing accidents, two-wheelers keep skidding.",Ward 7,pothole
+CMP00135,2026-07-11,"Garbage not collected for a week near Riverside Lane, Ward 5. Foul smell spreading.",Ward 5,garbage
+CMP00163,2026-07-11,"Garbage not collected for 2 days near Housing Colony Gate, Ward 10. Foul smell spreading.",Ward 10,garbage
+CMP00268,2026-07-11,"Manhole overflow near New Market Complex in Ward 9, extremely unhygienic condition.",Ward 9,sewage
+CMP00331,2026-07-11,Complaint raised earlier too - streetlight at Shiv Mandir Road (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00356,2026-07-11,"Road near New Market Complex in Ward 3 badly damaged after rains, potholes everywhere.",Ward 3,pothole
+CMP00451,2026-07-11,Complaint raised earlier too - streetlight at Housing Colony Gate (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00473,2026-07-11,"Sewage line broken near Old Bus Stand, Ward 13, dirty water flowing on road for several months.",Ward 13,sewage
+CMP00496,2026-07-11,"Every monsoon the road near Old Bus Stand in Ward 13 gets waterlogged, no permanent solution done yet.",Ward 13,waterlogging
+CMP00568,2026-07-11,"Road near Shiv Mandir Road in Ward 11 badly damaged after rains, potholes everywhere.",Ward 11,pothole
+CMP00593,2026-07-11,Municipal garbage van has skipped our street near Ambedkar Park (Ward 7) for 5 days.,Ward 7,garbage
+CMP00125,2026-07-12,Complaint raised earlier too - streetlight at Ring Road Junction (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00176,2026-07-12,Complaint raised earlier too - streetlight at Govt School (Ward 6) still not fixed.,Ward 6,streetlight
+CMP00230,2026-07-12,"Stagnant water near Railway Station Road for 2 days, mosquito breeding ground, Ward 7 residents worried.",Ward 7,waterlogging
+CMP00323,2026-07-12,"Large pothole near Main Bazaar, Ward 2 causing accidents, two-wheelers keep skidding.",Ward 2,pothole
+CMP00346,2026-07-12,"Multiple streetlights down on the stretch near Old Bus Stand in Ward 12, women feel unsafe.",Ward 12,streetlight
+CMP00479,2026-07-12,"Irregular water supply timing in Ward 6 near Govt School, affecting daily routine.",Ward 6,water_supply
+CMP00487,2026-07-12,"Garbage not collected for over a month near Ring Road Junction, Ward 1. Foul smell spreading.",Ward 1,garbage
+CMP00545,2026-07-12,"No water supply near Old Bus Stand, Ward 3 for 5 days, please check pipeline.",Ward 3,water_supply
+CMP00552,2026-07-12,"Overflowing garbage bin at Housing Colony Gate, Ward 4, please send collection truck.",Ward 4,garbage
+CMP00183,2026-07-13,"Same pothole near Railway Station Road (Ward 6) reported several months ago, still not repaired.",Ward 6,pothole
+CMP00220,2026-07-13,"Sir humara area Ward 2 Gandhi Chowk ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 2,waterlogging
+CMP00278,2026-07-13,"Irregular water supply timing in Ward 8 near Shiv Mandir Road, affecting daily routine.",Ward 8,water_supply
+CMP00319,2026-07-13,"Garbage not collected for 5 days near New Market Complex, Ward 3. Foul smell spreading.",Ward 3,garbage
+CMP00408,2026-07-13,Municipal garbage van has skipped our street near Industrial Area Gate (Ward 1) for 10 days.,Ward 1,garbage
+CMP00446,2026-07-13,"Multiple streetlights down on the stretch near Sector 4 Market in Ward 11, women feel unsafe.",Ward 11,streetlight
+CMP00476,2026-07-13,"Irregular water supply timing in Ward 8 near Ambedkar Park, affecting daily routine.",Ward 8,water_supply
+CMP00494,2026-07-13,Municipal garbage van has skipped our street near Industrial Area Gate (Ward 13) for several months.,Ward 13,garbage
+CMP00006,2026-07-14,"Overflowing garbage bin at Sector 4 Market, Ward 10, please send collection truck.",Ward 10,garbage
+CMP00040,2026-07-14,Heavy waterlogging near Gandhi Chowk in Ward 12 since 3 weeks. Road is completely flooded.,Ward 12,waterlogging
+CMP00110,2026-07-14,"Overflowing garbage bin at Housing Colony Gate, Ward 1, please send collection truck.",Ward 1,garbage
+CMP00274,2026-07-14,Heavy waterlogging near Housing Colony Gate in Ward 7 since 2 days. Road is completely flooded.,Ward 7,waterlogging
+CMP00350,2026-07-14,"Sir humara area Ward 13 Riverside Lane ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 13,waterlogging
+CMP00383,2026-07-14,"Overflowing garbage bin at Housing Colony Gate, Ward 7, please send collection truck.",Ward 7,garbage
+CMP00561,2026-07-14,"Large pothole near Gandhi Chowk, Ward 4 causing accidents, two-wheelers keep skidding.",Ward 4,pothole
+CMP00075,2026-07-15,"Garbage not collected for 10 days near Industrial Area Gate, Ward 3. Foul smell spreading.",Ward 3,garbage
+CMP00193,2026-07-15,"Large pothole near Railway Station Road, Ward 12 causing accidents, two-wheelers keep skidding.",Ward 12,pothole
+CMP00242,2026-07-15,"Large pothole near New Market Complex, Ward 4 causing accidents, two-wheelers keep skidding.",Ward 4,pothole
+CMP00245,2026-07-15,"Every monsoon the road near Ambedkar Park in Ward 5 gets waterlogged, no permanent solution done yet.",Ward 5,waterlogging
+CMP00298,2026-07-15,"Drain overflow causing water to enter houses near New Market Complex, Ward 12. Please help urgently.",Ward 12,waterlogging
+CMP00510,2026-07-15,"Same pothole near Main Bazaar (Ward 7) reported a week ago, still not repaired.",Ward 7,pothole
+CMP00537,2026-07-15,"Garbage not collected for 10 days near Housing Colony Gate, Ward 11. Foul smell spreading.",Ward 11,garbage
+CMP00199,2026-07-16,"Sewage line broken near Ring Road Junction, Ward 12, dirty water flowing on road for several months.",Ward 12,sewage
+CMP00218,2026-07-16,"Same pothole near Ambedkar Park (Ward 2) reported 5 days ago, still not repaired.",Ward 2,pothole
+CMP00239,2026-07-16,Complaint raised earlier too - streetlight at Railway Station Road (Ward 13) still not fixed.,Ward 13,streetlight
+CMP00313,2026-07-16,"Multiple streetlights down on the stretch near Old Bus Stand in Ward 2, women feel unsafe.",Ward 2,streetlight
+CMP00456,2026-07-16,"Road near Housing Colony Gate in Ward 13 badly damaged after rains, potholes everywhere.",Ward 13,pothole
+CMP00465,2026-07-16,"Sir humara area Ward 3 Community Hall ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 3,waterlogging
+CMP00480,2026-07-16,Municipal garbage van has skipped our street near Housing Colony Gate (Ward 1) for a week.,Ward 1,garbage
+CMP00529,2026-07-16,"Stagnant water near Ring Road Junction for 2 days, mosquito breeding ground, Ward 5 residents worried.",Ward 5,waterlogging
+CMP00011,2026-07-17,Municipal garbage van has skipped our street near Petrol Pump Circle (Ward 12) for several months.,Ward 12,garbage
+CMP00067,2026-07-17,"Drain overflow causing water to enter houses near Gandhi Chowk, Ward 8. Please help urgently.",Ward 8,waterlogging
+CMP00202,2026-07-17,Municipal garbage van has skipped our street near Gandhi Chowk (Ward 9) for over a month.,Ward 9,garbage
+CMP00217,2026-07-17,Municipal garbage van has skipped our street near Housing Colony Gate (Ward 1) for a week.,Ward 1,garbage
+CMP00276,2026-07-17,Complaint raised earlier too - streetlight at Ring Road Junction (Ward 7) still not fixed.,Ward 7,streetlight
+CMP00365,2026-07-17,"Contaminated water coming from tap near Old Bus Stand in Ward 7, smells bad.",Ward 7,water_supply
+CMP00409,2026-07-17,"Large pothole near Community Hall, Ward 5 causing accidents, two-wheelers keep skidding.",Ward 5,pothole
+CMP00504,2026-07-17,"Manhole overflow near Main Bazaar in Ward 7, extremely unhygienic condition.",Ward 7,sewage
+CMP00557,2026-07-17,"Illegal dumping of construction waste near Railway Station Road in Ward 12, causing blockage.",Ward 12,garbage
+CMP00573,2026-07-17,"Large pothole near Main Bazaar, Ward 4 causing accidents, two-wheelers keep skidding.",Ward 4,pothole
+CMP00026,2026-07-18,"Same pothole near Sector 4 Market (Ward 5) reported a week ago, still not repaired.",Ward 5,pothole
+CMP00057,2026-07-18,"Sewage line broken near Ambedkar Park, Ward 5, dirty water flowing on road for a week.",Ward 5,sewage
+CMP00066,2026-07-18,"No water supply near Main Bazaar, Ward 2 for 2 days, please check pipeline.",Ward 2,water_supply
+CMP00214,2026-07-18,"Overflowing garbage bin at Govt School, Ward 3, please send collection truck.",Ward 3,garbage
+CMP00357,2026-07-18,"Contaminated water coming from tap near Old Bus Stand in Ward 11, smells bad.",Ward 11,water_supply
+CMP00563,2026-07-18,"Garbage not collected for 10 days near Railway Station Road, Ward 2. Foul smell spreading.",Ward 2,garbage
+CMP00008,2026-07-19,"Stagnant water near Main Bazaar for 2 days, mosquito breeding ground, Ward 5 residents worried.",Ward 5,waterlogging
+CMP00190,2026-07-19,"Drain overflow causing water to enter houses near Railway Station Road, Ward 10. Please help urgently.",Ward 10,waterlogging
+CMP00282,2026-07-19,"Large pothole near Community Hall, Ward 7 causing accidents, two-wheelers keep skidding.",Ward 7,pothole
+CMP00288,2026-07-19,"Irregular water supply timing in Ward 10 near Old Bus Stand, affecting daily routine.",Ward 10,water_supply
+CMP00378,2026-07-19,Complaint raised earlier too - streetlight at Ring Road Junction (Ward 7) still not fixed.,Ward 7,streetlight
+CMP00425,2026-07-19,Municipal garbage van has skipped our street near Housing Colony Gate (Ward 13) for several months.,Ward 13,garbage
+CMP00438,2026-07-19,"Every monsoon the road near Petrol Pump Circle in Ward 8 gets waterlogged, no permanent solution done yet.",Ward 8,waterlogging
+CMP00449,2026-07-19,"Manhole overflow near Industrial Area Gate in Ward 3, extremely unhygienic condition.",Ward 3,sewage
+CMP00454,2026-07-19,"Overflowing garbage bin at Shiv Mandir Road, Ward 11, please send collection truck.",Ward 11,garbage
+CMP00468,2026-07-19,"No water supply near Railway Station Road, Ward 9 for 3 weeks, please check pipeline.",Ward 9,water_supply
+CMP00502,2026-07-19,"Overflowing garbage bin at Riverside Lane, Ward 9, please send collection truck.",Ward 9,garbage
+CMP00310,2026-07-20,"Irregular water supply timing in Ward 7 near Main Bazaar, affecting daily routine.",Ward 7,water_supply
+CMP00522,2026-07-20,Complaint raised earlier too - streetlight at Shiv Mandir Road (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00208,2026-07-21,"Illegal dumping of construction waste near Railway Station Road in Ward 10, causing blockage.",Ward 10,garbage
+CMP00368,2026-07-21,"Garbage not collected for 2 days near Old Bus Stand, Ward 12. Foul smell spreading.",Ward 12,garbage
+CMP00372,2026-07-21,"Sir humara area Ward 12 Shiv Mandir Road ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 12,waterlogging
+CMP00509,2026-07-21,"Large pothole near Housing Colony Gate, Ward 8 causing accidents, two-wheelers keep skidding.",Ward 8,pothole
+CMP00551,2026-07-21,"Large pothole near Industrial Area Gate, Ward 9 causing accidents, two-wheelers keep skidding.",Ward 9,pothole
+CMP00571,2026-07-21,"Sir humara area Ward 12 Main Bazaar ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 12,waterlogging
+CMP00032,2026-07-22,"Sewage line broken near Riverside Lane, Ward 13, dirty water flowing on road for 10 days.",Ward 13,sewage
+CMP00132,2026-07-22,"No water supply near Community Hall, Ward 7 for a week, please check pipeline.",Ward 7,water_supply
+CMP00142,2026-07-22,"No water supply near New Market Complex, Ward 4 for 2 days, please check pipeline.",Ward 4,water_supply
+CMP00229,2026-07-22,"Streetlight near Gandhi Chowk, Ward 7 not working for 3 weeks, safety issue at night.",Ward 7,streetlight
+CMP00406,2026-07-22,"Irregular water supply timing in Ward 12 near Shiv Mandir Road, affecting daily routine.",Ward 12,water_supply
+CMP00517,2026-07-22,Municipal garbage van has skipped our street near Sector 4 Market (Ward 6) for several months.,Ward 6,garbage
+CMP00577,2026-07-22,"Road near Govt School in Ward 5 badly damaged after rains, potholes everywhere.",Ward 5,pothole
+CMP00069,2026-07-23,"Road near Industrial Area Gate in Ward 10 badly damaged after rains, potholes everywhere.",Ward 10,pothole
+CMP00130,2026-07-23,"Sewage line broken near Sector 4 Market, Ward 1, dirty water flowing on road for 5 days.",Ward 1,sewage
+CMP00181,2026-07-23,"Sewage line broken near Riverside Lane, Ward 2, dirty water flowing on road for a week.",Ward 2,sewage
+CMP00599,2026-07-23,"Streetlight near Old Bus Stand, Ward 11 not working for 2 days, safety issue at night.",Ward 11,streetlight
+CMP00104,2026-07-24,Municipal garbage van has skipped our street near New Market Complex (Ward 13) for several months.,Ward 13,garbage
+CMP00203,2026-07-24,"Every monsoon the road near Shiv Mandir Road in Ward 11 gets waterlogged, no permanent solution done yet.",Ward 11,waterlogging
+CMP00308,2026-07-24,"Illegal dumping of construction waste near Sector 4 Market in Ward 3, causing blockage.",Ward 3,garbage
+CMP00352,2026-07-24,"Overflowing garbage bin at Industrial Area Gate, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00398,2026-07-24,"No water supply near Ambedkar Park, Ward 11 for a week, please check pipeline.",Ward 11,water_supply
+CMP00526,2026-07-24,"Overflowing garbage bin at Main Bazaar, Ward 3, please send collection truck.",Ward 3,garbage
+CMP00002,2026-07-25,"Same pothole near Railway Station Road (Ward 11) reported over a month ago, still not repaired.",Ward 11,pothole
+CMP00018,2026-07-25,"Multiple streetlights down on the stretch near Riverside Lane in Ward 4, women feel unsafe.",Ward 4,streetlight
+CMP00031,2026-07-25,"Sir humara area Ward 13 New Market Complex ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 13,waterlogging
+CMP00146,2026-07-25,"Manhole overflow near New Market Complex in Ward 7, extremely unhygienic condition.",Ward 7,sewage
+CMP00243,2026-07-25,"Illegal dumping of construction waste near Ring Road Junction in Ward 12, causing blockage.",Ward 12,garbage
+CMP00304,2026-07-25,Complaint raised earlier too - streetlight at Ring Road Junction (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00322,2026-07-25,"Contaminated water coming from tap near Industrial Area Gate in Ward 7, smells bad.",Ward 7,water_supply
+CMP00422,2026-07-25,"Same pothole near Railway Station Road (Ward 12) reported 2 days ago, still not repaired.",Ward 12,pothole
+CMP00437,2026-07-25,"Overflowing garbage bin at Petrol Pump Circle, Ward 7, please send collection truck.",Ward 7,garbage
+CMP00586,2026-07-25,Heavy waterlogging near Shiv Mandir Road in Ward 11 since several months. Road is completely flooded.,Ward 11,waterlogging
+CMP00085,2026-07-26,"Contaminated water coming from tap near Community Hall in Ward 7, smells bad.",Ward 7,water_supply
+CMP00123,2026-07-26,Municipal garbage van has skipped our street near Riverside Lane (Ward 7) for a week.,Ward 7,garbage
+CMP00507,2026-07-26,"Manhole overflow near Industrial Area Gate in Ward 1, extremely unhygienic condition.",Ward 1,sewage
+CMP00086,2026-07-27,"Road near Housing Colony Gate in Ward 12 badly damaged after rains, potholes everywhere.",Ward 12,pothole
+CMP00180,2026-07-27,"Large pothole near New Market Complex, Ward 7 causing accidents, two-wheelers keep skidding.",Ward 7,pothole
+CMP00320,2026-07-27,"Contaminated water coming from tap near Ambedkar Park in Ward 5, smells bad.",Ward 5,water_supply
+CMP00328,2026-07-27,"Sir humara area Ward 3 Petrol Pump Circle ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 3,waterlogging
+CMP00330,2026-07-27,"Stagnant water near Shiv Mandir Road for 10 days, mosquito breeding ground, Ward 1 residents worried.",Ward 1,waterlogging
+CMP00513,2026-07-27,"Multiple streetlights down on the stretch near Housing Colony Gate in Ward 12, women feel unsafe.",Ward 12,streetlight
+CMP00565,2026-07-27,Complaint raised earlier too - streetlight at Petrol Pump Circle (Ward 2) still not fixed.,Ward 2,streetlight
+CMP00033,2026-07-28,"Road near Ambedkar Park in Ward 15 badly damaged after rains, potholes everywhere.",Ward 15,pothole
+CMP00041,2026-07-28,"Drain overflow causing water to enter houses near Sector 4 Market, Ward 12. Please help urgently.",Ward 12,waterlogging
+CMP00096,2026-07-28,"Manhole overflow near New Market Complex in Ward 12, extremely unhygienic condition.",Ward 12,sewage
+CMP00227,2026-07-28,"Irregular water supply timing in Ward 7 near Ring Road Junction, affecting daily routine.",Ward 7,water_supply
+CMP00270,2026-07-28,"Garbage not collected for 3 weeks near Community Hall, Ward 8. Foul smell spreading.",Ward 8,garbage
+CMP00367,2026-07-28,"Streetlight near Govt School, Ward 3 not working for over a month, safety issue at night.",Ward 3,streetlight
+CMP00046,2026-07-29,"Stagnant water near Community Hall for several months, mosquito breeding ground, Ward 3 residents worried.",Ward 3,waterlogging
+CMP00073,2026-07-29,"Contaminated water coming from tap near Sector 4 Market in Ward 3, smells bad.",Ward 3,water_supply
+CMP00134,2026-07-29,"Manhole overflow near Shiv Mandir Road in Ward 6, extremely unhygienic condition.",Ward 6,sewage
+CMP00171,2026-07-29,Municipal garbage van has skipped our street near Housing Colony Gate (Ward 7) for a week.,Ward 7,garbage
+CMP00194,2026-07-29,Municipal garbage van has skipped our street near Riverside Lane (Ward 15) for 10 days.,Ward 15,garbage
+CMP00219,2026-07-29,"Garbage not collected for several months near New Market Complex, Ward 2. Foul smell spreading.",Ward 2,garbage
+CMP00354,2026-07-29,"Irregular water supply timing in Ward 7 near Govt School, affecting daily routine.",Ward 7,water_supply
+CMP00403,2026-07-29,"Contaminated water coming from tap near Old Bus Stand in Ward 5, smells bad.",Ward 5,water_supply
+CMP00512,2026-07-29,"Road near Community Hall in Ward 12 badly damaged after rains, potholes everywhere.",Ward 12,pothole
+CMP00523,2026-07-29,"Road near Shiv Mandir Road in Ward 9 badly damaged after rains, potholes everywhere.",Ward 9,pothole
+CMP00533,2026-07-29,"Illegal dumping of construction waste near Old Bus Stand in Ward 5, causing blockage.",Ward 5,garbage
+CMP00550,2026-07-29,"Irregular water supply timing in Ward 1 near Railway Station Road, affecting daily routine.",Ward 1,water_supply
+CMP00039,2026-07-30,"Road near Govt School in Ward 2 badly damaged after rains, potholes everywhere.",Ward 2,pothole
+CMP00192,2026-07-30,"Garbage not collected for several months near Ambedkar Park, Ward 4. Foul smell spreading.",Ward 4,garbage
+CMP00206,2026-07-30,"Illegal dumping of construction waste near Industrial Area Gate in Ward 13, causing blockage.",Ward 13,garbage
+CMP00355,2026-07-30,"Stagnant water near Govt School for 3 weeks, mosquito breeding ground, Ward 2 residents worried.",Ward 2,waterlogging
+CMP00361,2026-07-30,"Drain overflow causing water to enter houses near Housing Colony Gate, Ward 11. Please help urgently.",Ward 11,waterlogging
+CMP00402,2026-07-30,"Streetlight near New Market Complex, Ward 7 not working for over a month, safety issue at night.",Ward 7,streetlight
+CMP00030,2026-07-31,"Sewage line broken near Old Bus Stand, Ward 12, dirty water flowing on road for 5 days.",Ward 12,sewage
+CMP00114,2026-07-31,"Drain overflow causing water to enter houses near Sector 4 Market, Ward 3. Please help urgently.",Ward 3,waterlogging
+CMP00302,2026-07-31,"Streetlight near Industrial Area Gate, Ward 13 not working for 5 days, safety issue at night.",Ward 13,streetlight
+CMP00374,2026-07-31,Complaint raised earlier too - streetlight at Ring Road Junction (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00395,2026-07-31,"Streetlight near Govt School, Ward 1 not working for 5 days, safety issue at night.",Ward 1,streetlight
+CMP00423,2026-07-31,Heavy waterlogging near Ambedkar Park in Ward 6 since 2 days. Road is completely flooded.,Ward 6,waterlogging
+CMP00175,2026-08-01,"Streetlight near Housing Colony Gate, Ward 15 not working for over a month, safety issue at night.",Ward 15,streetlight
+CMP00205,2026-08-01,"Overflowing garbage bin at Community Hall, Ward 7, please send collection truck.",Ward 7,garbage
+CMP00382,2026-08-01,Complaint raised earlier too - streetlight at Shiv Mandir Road (Ward 10) still not fixed.,Ward 10,streetlight
+CMP00491,2026-08-01,"Every monsoon the road near Govt School in Ward 3 gets waterlogged, no permanent solution done yet.",Ward 3,waterlogging
+CMP00562,2026-08-01,"Manhole overflow near Riverside Lane in Ward 12, extremely unhygienic condition.",Ward 12,sewage
+CMP00029,2026-08-02,"Garbage not collected for 5 days near Railway Station Road, Ward 4. Foul smell spreading.",Ward 4,garbage
+CMP00105,2026-08-02,"Same pothole near Ambedkar Park (Ward 7) reported a week ago, still not repaired.",Ward 7,pothole
+CMP00160,2026-08-02,Municipal garbage van has skipped our street near Petrol Pump Circle (Ward 7) for several months.,Ward 7,garbage
+CMP00167,2026-08-02,"Multiple streetlights down on the stretch near Housing Colony Gate in Ward 3, women feel unsafe.",Ward 3,streetlight
+CMP00285,2026-08-02,"Drain overflow causing water to enter houses near Shiv Mandir Road, Ward 6. Please help urgently.",Ward 6,waterlogging
+CMP00334,2026-08-02,"Sir humara area Ward 10 Community Hall ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 10,waterlogging
+CMP00455,2026-08-02,"Illegal dumping of construction waste near Community Hall in Ward 8, causing blockage.",Ward 8,garbage
+CMP00528,2026-08-02,"Sewage line broken near Main Bazaar, Ward 7, dirty water flowing on road for a week.",Ward 7,sewage
+CMP00553,2026-08-02,"Overflowing garbage bin at Ring Road Junction, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00016,2026-08-03,"Manhole overflow near Sector 4 Market in Ward 4, extremely unhygienic condition.",Ward 4,sewage
+CMP00019,2026-08-03,"Overflowing garbage bin at Old Bus Stand, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00198,2026-08-03,"No water supply near Ambedkar Park, Ward 12 for over a month, please check pipeline.",Ward 12,water_supply
+CMP00213,2026-08-03,Heavy waterlogging near Gandhi Chowk in Ward 9 since 10 days. Road is completely flooded.,Ward 9,waterlogging
+CMP00306,2026-08-03,"Contaminated water coming from tap near Railway Station Road in Ward 7, smells bad.",Ward 7,water_supply
+CMP00321,2026-08-03,"Overflowing garbage bin at Housing Colony Gate, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00339,2026-08-03,"Sewage line broken near Sector 4 Market, Ward 4, dirty water flowing on road for several months.",Ward 4,sewage
+CMP00399,2026-08-03,Heavy waterlogging near New Market Complex in Ward 12 since 3 weeks. Road is completely flooded.,Ward 12,waterlogging
+CMP00490,2026-08-03,"Every monsoon the road near Community Hall in Ward 10 gets waterlogged, no permanent solution done yet.",Ward 10,waterlogging
+CMP00492,2026-08-03,"Overflowing garbage bin at Riverside Lane, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00587,2026-08-03,"Sir humara area Ward 5 Petrol Pump Circle ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 5,waterlogging
+CMP00056,2026-08-04,"Sewage line broken near Main Bazaar, Ward 15, dirty water flowing on road for a week.",Ward 15,sewage
+CMP00173,2026-08-04,"Contaminated water coming from tap near Ambedkar Park in Ward 12, smells bad.",Ward 12,water_supply
+CMP00241,2026-08-04,"Road near Railway Station Road in Ward 13 badly damaged after rains, potholes everywhere.",Ward 13,pothole
+CMP00293,2026-08-04,"Multiple streetlights down on the stretch near Industrial Area Gate in Ward 15, women feel unsafe.",Ward 15,streetlight
+CMP00362,2026-08-04,"Garbage not collected for 3 weeks near Railway Station Road, Ward 7. Foul smell spreading.",Ward 7,garbage
+CMP00373,2026-08-04,"Road near Ring Road Junction in Ward 15 badly damaged after rains, potholes everywhere.",Ward 15,pothole
+CMP00477,2026-08-04,"Same pothole near Riverside Lane (Ward 7) reported 2 days ago, still not repaired.",Ward 7,pothole
+CMP00576,2026-08-04,Heavy waterlogging near Industrial Area Gate in Ward 1 since 3 weeks. Road is completely flooded.,Ward 1,waterlogging
+CMP00078,2026-08-05,"Road near Govt School in Ward 7 badly damaged after rains, potholes everywhere.",Ward 7,pothole
+CMP00317,2026-08-05,Heavy waterlogging near Shiv Mandir Road in Ward 1 since 10 days. Road is completely flooded.,Ward 1,waterlogging
+CMP00338,2026-08-05,"Large pothole near Industrial Area Gate, Ward 11 causing accidents, two-wheelers keep skidding.",Ward 11,pothole
+CMP00450,2026-08-05,"Road near Community Hall in Ward 7 badly damaged after rains, potholes everywhere.",Ward 7,pothole
+CMP00145,2026-08-06,"Same pothole near Sector 4 Market (Ward 12) reported several months ago, still not repaired.",Ward 12,pothole
+CMP00165,2026-08-06,"Multiple streetlights down on the stretch near Gandhi Chowk in Ward 10, women feel unsafe.",Ward 10,streetlight
+CMP00508,2026-08-06,"Drain overflow causing water to enter houses near Main Bazaar, Ward 3. Please help urgently.",Ward 3,waterlogging
+CMP00584,2026-08-06,"Stagnant water near Shiv Mandir Road for over a month, mosquito breeding ground, Ward 3 residents worried.",Ward 3,waterlogging
+CMP00133,2026-08-07,"Illegal dumping of construction waste near Housing Colony Gate in Ward 10, causing blockage.",Ward 10,garbage
+CMP00204,2026-08-07,"Sir humara area Ward 3 Ambedkar Park ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 3,waterlogging
+CMP00247,2026-08-07,"Large pothole near Railway Station Road, Ward 3 causing accidents, two-wheelers keep skidding.",Ward 3,pothole
+CMP00309,2026-08-07,"Same pothole near Shiv Mandir Road (Ward 3) reported 2 days ago, still not repaired.",Ward 3,pothole
+CMP00427,2026-08-07,"Overflowing garbage bin at Main Bazaar, Ward 9, please send collection truck.",Ward 9,garbage
+CMP00464,2026-08-07,"No water supply near Railway Station Road, Ward 10 for 2 days, please check pipeline.",Ward 10,water_supply
+CMP00124,2026-08-08,Complaint raised earlier too - streetlight at Community Hall (Ward 3) still not fixed.,Ward 3,streetlight
+CMP00138,2026-08-08,"Illegal dumping of construction waste near Gandhi Chowk in Ward 5, causing blockage.",Ward 5,garbage
+CMP00397,2026-08-08,"Irregular water supply timing in Ward 2 near Ring Road Junction, affecting daily routine.",Ward 2,water_supply
+CMP00417,2026-08-08,Complaint raised earlier too - streetlight at Sector 4 Market (Ward 2) still not fixed.,Ward 2,streetlight
+CMP00503,2026-08-08,"Manhole overflow near Ring Road Junction in Ward 2, extremely unhygienic condition.",Ward 2,sewage
+CMP00520,2026-08-08,"Garbage not collected for 2 days near Ring Road Junction, Ward 4. Foul smell spreading.",Ward 4,garbage
+CMP00541,2026-08-08,Complaint raised earlier too - streetlight at Community Hall (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00579,2026-08-08,"Streetlight near Industrial Area Gate, Ward 5 not working for a week, safety issue at night.",Ward 5,streetlight
+CMP00101,2026-08-09,"Stagnant water near Govt School for 10 days, mosquito breeding ground, Ward 3 residents worried.",Ward 3,waterlogging
+CMP00152,2026-08-09,"No water supply near Govt School, Ward 8 for 2 days, please check pipeline.",Ward 8,water_supply
+CMP00574,2026-08-09,"Sir humara area Ward 13 Govt School ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 13,waterlogging
+CMP00034,2026-08-10,"Every monsoon the road near Gandhi Chowk in Ward 3 gets waterlogged, no permanent solution done yet.",Ward 3,waterlogging
+CMP00059,2026-08-10,"Irregular water supply timing in Ward 14 near Gandhi Chowk, affecting daily routine.",Ward 14,water_supply
+CMP00221,2026-08-10,"Sir humara area Ward 4 Sector 4 Market ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 4,waterlogging
+CMP00295,2026-08-10,"Stagnant water near New Market Complex for 10 days, mosquito breeding ground, Ward 12 residents worried.",Ward 12,waterlogging
+CMP00340,2026-08-10,"Multiple streetlights down on the stretch near Housing Colony Gate in Ward 1, women feel unsafe.",Ward 1,streetlight
+CMP00499,2026-08-10,"Sewage line broken near Petrol Pump Circle, Ward 3, dirty water flowing on road for several months.",Ward 3,sewage
+CMP00596,2026-08-10,"Contaminated water coming from tap near Shiv Mandir Road in Ward 12, smells bad.",Ward 12,water_supply
+CMP00129,2026-08-11,"Irregular water supply timing in Ward 6 near Ambedkar Park, affecting daily routine.",Ward 6,water_supply
+CMP00144,2026-08-11,"Sewage line broken near Sector 4 Market, Ward 12, dirty water flowing on road for 2 days.",Ward 12,sewage
+CMP00366,2026-08-11,Municipal garbage van has skipped our street near Gandhi Chowk (Ward 12) for over a month.,Ward 12,garbage
+CMP00387,2026-08-11,"Road near Housing Colony Gate in Ward 3 badly damaged after rains, potholes everywhere.",Ward 3,pothole
+CMP00420,2026-08-11,"Multiple streetlights down on the stretch near Ring Road Junction in Ward 7, women feel unsafe.",Ward 7,streetlight
+CMP00441,2026-08-11,"Road near Ambedkar Park in Ward 5 badly damaged after rains, potholes everywhere.",Ward 5,pothole
+CMP00530,2026-08-11,"Streetlight near New Market Complex, Ward 13 not working for 3 weeks, safety issue at night.",Ward 13,streetlight
+CMP00120,2026-08-12,"Irregular water supply timing in Ward 12 near Industrial Area Gate, affecting daily routine.",Ward 12,water_supply
+CMP00154,2026-08-12,"Irregular water supply timing in Ward 2 near Riverside Lane, affecting daily routine.",Ward 2,water_supply
+CMP00189,2026-08-12,"Overflowing garbage bin at Main Bazaar, Ward 6, please send collection truck.",Ward 6,garbage
+CMP00197,2026-08-12,"Contaminated water coming from tap near Community Hall in Ward 1, smells bad.",Ward 1,water_supply
+CMP00267,2026-08-12,"Irregular water supply timing in Ward 7 near Housing Colony Gate, affecting daily routine.",Ward 7,water_supply
+CMP00329,2026-08-12,"Every monsoon the road near Shiv Mandir Road in Ward 1 gets waterlogged, no permanent solution done yet.",Ward 1,waterlogging
+CMP00466,2026-08-12,"Illegal dumping of construction waste near Govt School in Ward 5, causing blockage.",Ward 5,garbage
+CMP00470,2026-08-12,"Irregular water supply timing in Ward 2 near Industrial Area Gate, affecting daily routine.",Ward 2,water_supply
+CMP00498,2026-08-12,Municipal garbage van has skipped our street near Shiv Mandir Road (Ward 6) for 2 days.,Ward 6,garbage
+CMP00037,2026-08-13,Complaint raised earlier too - streetlight at Old Bus Stand (Ward 5) still not fixed.,Ward 5,streetlight
+CMP00292,2026-08-13,"No water supply near Shiv Mandir Road, Ward 13 for 5 days, please check pipeline.",Ward 13,water_supply
+CMP00360,2026-08-13,"Sewage line broken near New Market Complex, Ward 7, dirty water flowing on road for 10 days.",Ward 7,sewage
+CMP00388,2026-08-13,"Contaminated water coming from tap near Community Hall in Ward 13, smells bad.",Ward 13,water_supply
+CMP00048,2026-08-14,"Every monsoon the road near Sector 4 Market in Ward 11 gets waterlogged, no permanent solution done yet.",Ward 11,waterlogging
+CMP00049,2026-08-14,"Every monsoon the road near Gandhi Chowk in Ward 11 gets waterlogged, no permanent solution done yet.",Ward 11,waterlogging
+CMP00102,2026-08-14,"Stagnant water near Govt School for several months, mosquito breeding ground, Ward 7 residents worried.",Ward 7,waterlogging
+CMP00174,2026-08-14,"Every monsoon the road near New Market Complex in Ward 5 gets waterlogged, no permanent solution done yet.",Ward 5,waterlogging
+CMP00231,2026-08-14,"Every monsoon the road near Ring Road Junction in Ward 9 gets waterlogged, no permanent solution done yet.",Ward 9,waterlogging
+CMP00280,2026-08-14,"Large pothole near Shiv Mandir Road, Ward 13 causing accidents, two-wheelers keep skidding.",Ward 13,pothole
+CMP00377,2026-08-14,"Sewage line broken near Riverside Lane, Ward 7, dirty water flowing on road for 2 days.",Ward 7,sewage
+CMP00453,2026-08-14,"Sir humara area Ward 11 Ambedkar Park ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 11,waterlogging
+CMP00549,2026-08-14,"Contaminated water coming from tap near Housing Colony Gate in Ward 10, smells bad.",Ward 10,water_supply
+CMP00238,2026-08-15,"Overflowing garbage bin at Main Bazaar, Ward 11, please send collection truck.",Ward 11,garbage
+CMP00349,2026-08-15,Complaint raised earlier too - streetlight at Petrol Pump Circle (Ward 5) still not fixed.,Ward 5,streetlight
+CMP00392,2026-08-15,"Large pothole near Railway Station Road, Ward 13 causing accidents, two-wheelers keep skidding.",Ward 13,pothole
+CMP00445,2026-08-15,Heavy waterlogging near Sector 4 Market in Ward 9 since several months. Road is completely flooded.,Ward 9,waterlogging
+CMP00560,2026-08-15,"Stagnant water near Railway Station Road for a week, mosquito breeding ground, Ward 10 residents worried.",Ward 10,waterlogging
+CMP00021,2026-08-16,"Garbage not collected for 3 weeks near Govt School, Ward 12. Foul smell spreading.",Ward 12,garbage
+CMP00027,2026-08-16,Complaint raised earlier too - streetlight at Ambedkar Park (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00077,2026-08-16,"Manhole overflow near Gandhi Chowk in Ward 3, extremely unhygienic condition.",Ward 3,sewage
+CMP00149,2026-08-16,"Stagnant water near Housing Colony Gate for 5 days, mosquito breeding ground, Ward 8 residents worried.",Ward 8,waterlogging
+CMP00156,2026-08-16,Municipal garbage van has skipped our street near Housing Colony Gate (Ward 7) for 2 days.,Ward 7,garbage
+CMP00376,2026-08-16,"Same pothole near Petrol Pump Circle (Ward 12) reported 2 days ago, still not repaired.",Ward 12,pothole
+CMP00569,2026-08-16,"Garbage not collected for over a month near Sector 4 Market, Ward 12. Foul smell spreading.",Ward 12,garbage
+CMP00007,2026-08-17,"Illegal dumping of construction waste near New Market Complex in Ward 2, causing blockage.",Ward 2,garbage
+CMP00232,2026-08-17,"Illegal dumping of construction waste near Housing Colony Gate in Ward 7, causing blockage.",Ward 7,garbage
+CMP00273,2026-08-17,"Irregular water supply timing in Ward 7 near Sector 4 Market, affecting daily routine.",Ward 7,water_supply
+CMP00324,2026-08-17,"Illegal dumping of construction waste near Community Hall in Ward 2, causing blockage.",Ward 2,garbage
+CMP00371,2026-08-17,"Irregular water supply timing in Ward 11 near Housing Colony Gate, affecting daily routine.",Ward 11,water_supply
+CMP00413,2026-08-17,"Drain overflow causing water to enter houses near Housing Colony Gate, Ward 4. Please help urgently.",Ward 4,waterlogging
+CMP00495,2026-08-17,"Overflowing garbage bin at Community Hall, Ward 7, please send collection truck.",Ward 7,garbage
+CMP00058,2026-08-18,Complaint raised earlier too - streetlight at Riverside Lane (Ward 5) still not fixed.,Ward 5,streetlight
+CMP00095,2026-08-18,"Multiple streetlights down on the stretch near Industrial Area Gate in Ward 7, women feel unsafe.",Ward 7,streetlight
+CMP00359,2026-08-18,Heavy waterlogging near Community Hall in Ward 7 since 3 weeks. Road is completely flooded.,Ward 7,waterlogging
+CMP00506,2026-08-18,"Road near Old Bus Stand in Ward 12 badly damaged after rains, potholes everywhere.",Ward 12,pothole
+CMP00518,2026-08-18,"Stagnant water near Govt School for 2 days, mosquito breeding ground, Ward 9 residents worried.",Ward 9,waterlogging
+CMP00524,2026-08-18,"Irregular water supply timing in Ward 9 near Industrial Area Gate, affecting daily routine.",Ward 9,water_supply
+CMP00566,2026-08-18,"Drain overflow causing water to enter houses near Ambedkar Park, Ward 6. Please help urgently.",Ward 6,waterlogging
+CMP00055,2026-08-19,"Streetlight near Gandhi Chowk, Ward 9 not working for 3 weeks, safety issue at night.",Ward 9,streetlight
+CMP00260,2026-08-19,Heavy waterlogging near Shiv Mandir Road in Ward 7 since a week. Road is completely flooded.,Ward 7,waterlogging
+CMP00025,2026-08-20,"Overflowing garbage bin at Main Bazaar, Ward 12, please send collection truck.",Ward 12,garbage
+CMP00090,2026-08-20,"Streetlight near Housing Colony Gate, Ward 4 not working for 3 weeks, safety issue at night.",Ward 4,streetlight
+CMP00151,2026-08-20,"Drain overflow causing water to enter houses near Ambedkar Park, Ward 12. Please help urgently.",Ward 12,waterlogging
+CMP00201,2026-08-20,"Large pothole near Petrol Pump Circle, Ward 12 causing accidents, two-wheelers keep skidding.",Ward 12,pothole
+CMP00266,2026-08-20,"Irregular water supply timing in Ward 9 near Railway Station Road, affecting daily routine.",Ward 9,water_supply
+CMP00312,2026-08-20,"Drain overflow causing water to enter houses near Riverside Lane, Ward 6. Please help urgently.",Ward 6,waterlogging
+CMP00348,2026-08-20,"Same pothole near Community Hall (Ward 4) reported a week ago, still not repaired.",Ward 4,pothole
+CMP00554,2026-08-20,"Sewage line broken near Gandhi Chowk, Ward 12, dirty water flowing on road for 2 days.",Ward 12,sewage
+CMP00558,2026-08-20,"Overflowing garbage bin at Gandhi Chowk, Ward 4, please send collection truck.",Ward 4,garbage
+CMP00191,2026-08-21,"Overflowing garbage bin at Sector 4 Market, Ward 9, please send collection truck.",Ward 9,garbage
+CMP00259,2026-08-21,Complaint raised earlier too - streetlight at Govt School (Ward 12) still not fixed.,Ward 12,streetlight
+CMP00263,2026-08-21,"Drain overflow causing water to enter houses near Railway Station Road, Ward 11. Please help urgently.",Ward 11,waterlogging
+CMP00405,2026-08-21,"No water supply near Ring Road Junction, Ward 8 for several months, please check pipeline.",Ward 8,water_supply
+CMP00460,2026-08-21,"Multiple streetlights down on the stretch near Gandhi Chowk in Ward 1, women feel unsafe.",Ward 1,streetlight
+CMP00483,2026-08-21,Municipal garbage van has skipped our street near Riverside Lane (Ward 2) for several months.,Ward 2,garbage
+CMP00527,2026-08-21,"Multiple streetlights down on the stretch near Old Bus Stand in Ward 8, women feel unsafe.",Ward 8,streetlight
+CMP00012,2026-08-22,"Illegal dumping of construction waste near Riverside Lane in Ward 3, causing blockage.",Ward 3,garbage
+CMP00023,2026-08-22,"Same pothole near Industrial Area Gate (Ward 11) reported 10 days ago, still not repaired.",Ward 11,pothole
+CMP00264,2026-08-22,"Multiple streetlights down on the stretch near Shiv Mandir Road in Ward 3, women feel unsafe.",Ward 3,streetlight
+CMP00318,2026-08-22,"Contaminated water coming from tap near Community Hall in Ward 7, smells bad.",Ward 7,water_supply
+CMP00351,2026-08-22,"Streetlight near Railway Station Road, Ward 12 not working for 2 days, safety issue at night.",Ward 12,streetlight
+CMP00396,2026-08-22,"Every monsoon the road near Shiv Mandir Road in Ward 7 gets waterlogged, no permanent solution done yet.",Ward 7,waterlogging
+CMP00401,2026-08-22,"Road near Community Hall in Ward 5 badly damaged after rains, potholes everywhere.",Ward 5,pothole
+CMP00424,2026-08-22,"Overflowing garbage bin at Industrial Area Gate, Ward 1, please send collection truck.",Ward 1,garbage
+CMP00457,2026-08-22,"Road near Old Bus Stand in Ward 3 badly damaged after rains, potholes everywhere.",Ward 3,pothole
+CMP00043,2026-08-23,"Irregular water supply timing in Ward 7 near Railway Station Road, affecting daily routine.",Ward 7,water_supply
+CMP00112,2026-08-23,"Large pothole near Shiv Mandir Road, Ward 7 causing accidents, two-wheelers keep skidding.",Ward 7,pothole
+CMP00159,2026-08-23,"No water supply near Housing Colony Gate, Ward 8 for over a month, please check pipeline.",Ward 8,water_supply
+CMP00233,2026-08-23,"No water supply near New Market Complex, Ward 7 for 5 days, please check pipeline.",Ward 7,water_supply
+CMP00390,2026-08-23,"Garbage not collected for 3 weeks near Shiv Mandir Road, Ward 5. Foul smell spreading.",Ward 5,garbage
+CMP00536,2026-08-23,"Streetlight near Govt School, Ward 12 not working for 2 days, safety issue at night.",Ward 12,streetlight
+CMP00544,2026-08-23,"No water supply near Community Hall, Ward 13 for several months, please check pipeline.",Ward 13,water_supply
+CMP00592,2026-08-23,"Irregular water supply timing in Ward 13 near Industrial Area Gate, affecting daily routine.",Ward 13,water_supply
+CMP00047,2026-08-24,"Same pothole near Industrial Area Gate (Ward 5) reported over a month ago, still not repaired.",Ward 5,pothole
+CMP00074,2026-08-24,"No water supply near Sector 4 Market, Ward 6 for 2 days, please check pipeline.",Ward 6,water_supply
+CMP00081,2026-08-24,"Illegal dumping of construction waste near Ring Road Junction in Ward 3, causing blockage.",Ward 3,garbage
+CMP00108,2026-08-24,"Multiple streetlights down on the stretch near Ring Road Junction in Ward 14, women feel unsafe.",Ward 14,streetlight
+CMP00228,2026-08-24,"Sewage line broken near Riverside Lane, Ward 7, dirty water flowing on road for several months.",Ward 7,sewage
+CMP00279,2026-08-24,"Road near Community Hall in Ward 2 badly damaged after rains, potholes everywhere.",Ward 2,pothole
+CMP00281,2026-08-24,"Manhole overflow near Petrol Pump Circle in Ward 10, extremely unhygienic condition.",Ward 10,sewage
+CMP00481,2026-08-24,"Overflowing garbage bin at Petrol Pump Circle, Ward 8, please send collection truck.",Ward 8,garbage
+CMP00570,2026-08-24,"Same pothole near Gandhi Chowk (Ward 8) reported several months ago, still not repaired.",Ward 8,pothole
+CMP00054,2026-08-25,"Illegal dumping of construction waste near Govt School in Ward 10, causing blockage.",Ward 10,garbage
+CMP00071,2026-08-25,"Every monsoon the road near Industrial Area Gate in Ward 12 gets waterlogged, no permanent solution done yet.",Ward 12,waterlogging
+CMP00080,2026-08-25,Complaint raised earlier too - streetlight at Petrol Pump Circle (Ward 7) still not fixed.,Ward 7,streetlight
+CMP00082,2026-08-25,"Road near Main Bazaar in Ward 12 badly damaged after rains, potholes everywhere.",Ward 12,pothole
+CMP00094,2026-08-25,"Drain overflow causing water to enter houses near Industrial Area Gate, Ward 13. Please help urgently.",Ward 13,waterlogging
+CMP00106,2026-08-25,"Streetlight near Govt School, Ward 4 not working for 10 days, safety issue at night.",Ward 4,streetlight
+CMP00161,2026-08-25,"Multiple streetlights down on the stretch near Shiv Mandir Road in Ward 14, women feel unsafe.",Ward 14,streetlight
+CMP00414,2026-08-25,"Road near Industrial Area Gate in Ward 7 badly damaged after rains, potholes everywhere.",Ward 7,pothole
+CMP00521,2026-08-25,Municipal garbage van has skipped our street near Railway Station Road (Ward 3) for 10 days.,Ward 3,garbage
+CMP00209,2026-08-26,"Multiple streetlights down on the stretch near Shiv Mandir Road in Ward 1, women feel unsafe.",Ward 1,streetlight
+CMP00252,2026-08-26,"Stagnant water near Railway Station Road for 10 days, mosquito breeding ground, Ward 11 residents worried.",Ward 11,waterlogging
+CMP00277,2026-08-26,Municipal garbage van has skipped our street near Industrial Area Gate (Ward 7) for 10 days.,Ward 7,garbage
+CMP00327,2026-08-26,"Road near Main Bazaar in Ward 2 badly damaged after rains, potholes everywhere.",Ward 2,pothole
+CMP00432,2026-08-26,Heavy waterlogging near Housing Colony Gate in Ward 3 since over a month. Road is completely flooded.,Ward 3,waterlogging
+CMP00435,2026-08-26,"Manhole overflow near Ring Road Junction in Ward 4, extremely unhygienic condition.",Ward 4,sewage
+CMP00444,2026-08-26,"No water supply near Community Hall, Ward 7 for 3 weeks, please check pipeline.",Ward 7,water_supply
+CMP00589,2026-08-26,"Garbage not collected for over a month near Ambedkar Park, Ward 7. Foul smell spreading.",Ward 7,garbage
+CMP00594,2026-08-26,"Every monsoon the road near Railway Station Road in Ward 5 gets waterlogged, no permanent solution done yet.",Ward 5,waterlogging
+CMP00022,2026-08-27,Complaint raised earlier too - streetlight at New Market Complex (Ward 15) still not fixed.,Ward 15,streetlight
+CMP00236,2026-08-27,"Illegal dumping of construction waste near Shiv Mandir Road in Ward 5, causing blockage.",Ward 5,garbage
+CMP00283,2026-08-27,"Overflowing garbage bin at Petrol Pump Circle, Ward 9, please send collection truck.",Ward 9,garbage
+CMP00314,2026-08-27,"No water supply near New Market Complex, Ward 7 for several months, please check pipeline.",Ward 7,water_supply
+CMP00343,2026-08-27,"Garbage not collected for 3 weeks near Housing Colony Gate, Ward 3. Foul smell spreading.",Ward 3,garbage
+CMP00472,2026-08-27,"Streetlight near Ambedkar Park, Ward 12 not working for 2 days, safety issue at night.",Ward 12,streetlight
+CMP00100,2026-08-28,"Drain overflow causing water to enter houses near Sector 4 Market, Ward 12. Please help urgently.",Ward 12,waterlogging
+CMP00187,2026-08-28,Heavy waterlogging near Housing Colony Gate in Ward 7 since a week. Road is completely flooded.,Ward 7,waterlogging
+CMP00244,2026-08-28,"Sewage line broken near Ring Road Junction, Ward 12, dirty water flowing on road for 5 days.",Ward 12,sewage
+CMP00380,2026-08-28,"Multiple streetlights down on the stretch near Old Bus Stand in Ward 3, women feel unsafe.",Ward 3,streetlight
+CMP00384,2026-08-28,"Same pothole near Petrol Pump Circle (Ward 7) reported 5 days ago, still not repaired.",Ward 7,pothole
+CMP00411,2026-08-28,Complaint raised earlier too - streetlight at Industrial Area Gate (Ward 7) still not fixed.,Ward 7,streetlight
+CMP00471,2026-08-28,"Sewage line broken near Sector 4 Market, Ward 14, dirty water flowing on road for a week.",Ward 14,sewage
+CMP00072,2026-08-29,"Contaminated water coming from tap near Old Bus Stand in Ward 12, smells bad.",Ward 12,water_supply
+CMP00119,2026-08-29,"Same pothole near Sector 4 Market (Ward 2) reported 2 days ago, still not repaired.",Ward 2,pothole
+CMP00139,2026-08-29,Heavy waterlogging near Main Bazaar in Ward 3 since 10 days. Road is completely flooded.,Ward 3,waterlogging
+CMP00150,2026-08-29,"Every monsoon the road near Riverside Lane in Ward 7 gets waterlogged, no permanent solution done yet.",Ward 7,waterlogging
+CMP00155,2026-08-29,"Multiple streetlights down on the stretch near Riverside Lane in Ward 13, women feel unsafe.",Ward 13,streetlight
+CMP00463,2026-08-29,"Sewage line broken near Main Bazaar, Ward 5, dirty water flowing on road for several months.",Ward 5,sewage
+CMP00009,2026-08-30,"Illegal dumping of construction waste near Ring Road Junction in Ward 2, causing blockage.",Ward 2,garbage
+CMP00079,2026-08-30,"Sewage line broken near Community Hall, Ward 3, dirty water flowing on road for 2 days.",Ward 3,sewage
+CMP00178,2026-08-30,"Illegal dumping of construction waste near Riverside Lane in Ward 12, causing blockage.",Ward 12,garbage
+CMP00256,2026-08-30,"Overflowing garbage bin at Govt School, Ward 7, please send collection truck.",Ward 7,garbage
+CMP00275,2026-08-30,"Drain overflow causing water to enter houses near Gandhi Chowk, Ward 14. Please help urgently.",Ward 14,waterlogging
+CMP00336,2026-08-30,"Every monsoon the road near Petrol Pump Circle in Ward 7 gets waterlogged, no permanent solution done yet.",Ward 7,waterlogging
+CMP00386,2026-08-30,"Manhole overflow near Industrial Area Gate in Ward 4, extremely unhygienic condition.",Ward 4,sewage
+CMP00448,2026-08-30,"No water supply near Riverside Lane, Ward 11 for over a month, please check pipeline.",Ward 11,water_supply
+CMP00514,2026-08-30,"Streetlight near Community Hall, Ward 11 not working for 2 days, safety issue at night.",Ward 11,streetlight
+CMP00519,2026-08-30,"Multiple streetlights down on the stretch near Govt School in Ward 12, women feel unsafe.",Ward 12,streetlight
+CMP00531,2026-08-30,Complaint raised earlier too - streetlight at Housing Colony Gate (Ward 7) still not fixed.,Ward 7,streetlight
+CMP00539,2026-08-30,"Same pothole near Shiv Mandir Road (Ward 4) reported several months ago, still not repaired.",Ward 4,pothole
+CMP00583,2026-08-30,"Large pothole near Railway Station Road, Ward 10 causing accidents, two-wheelers keep skidding.",Ward 10,pothole
+CMP00061,2026-08-31,"Every monsoon the road near Ring Road Junction in Ward 11 gets waterlogged, no permanent solution done yet.",Ward 11,waterlogging
+CMP00131,2026-08-31,"Irregular water supply timing in Ward 7 near Housing Colony Gate, affecting daily routine.",Ward 7,water_supply
+CMP00184,2026-08-31,"Contaminated water coming from tap near Shiv Mandir Road in Ward 12, smells bad.",Ward 12,water_supply
+CMP00307,2026-08-31,"Sir humara area Ward 8 Ring Road Junction ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 8,waterlogging
+CMP00335,2026-08-31,Heavy waterlogging near Housing Colony Gate in Ward 3 since a week. Road is completely flooded.,Ward 3,waterlogging
+CMP00337,2026-08-31,"Multiple streetlights down on the stretch near New Market Complex in Ward 2, women feel unsafe.",Ward 2,streetlight
+CMP00341,2026-08-31,"Sewage line broken near Community Hall, Ward 3, dirty water flowing on road for 3 weeks.",Ward 3,sewage
+CMP00474,2026-08-31,"Drain overflow causing water to enter houses near Industrial Area Gate, Ward 1. Please help urgently.",Ward 1,waterlogging
+CMP00482,2026-08-31,"Contaminated water coming from tap near Industrial Area Gate in Ward 7, smells bad.",Ward 7,water_supply
+CMP00024,2026-09-01,"Overflowing garbage bin at Housing Colony Gate, Ward 6, please send collection truck.",Ward 6,garbage
+CMP00200,2026-09-01,"Every monsoon the road near Petrol Pump Circle in Ward 4 gets waterlogged, no permanent solution done yet.",Ward 4,waterlogging
+CMP00207,2026-09-01,"Drain overflow causing water to enter houses near New Market Complex, Ward 13. Please help urgently.",Ward 13,waterlogging
+CMP00289,2026-09-01,"Sir humara area Ward 3 Industrial Area Gate ke paas paani bhar gaya hai, bahut dino se yehi problem hai.",Ward 3,waterlogging
+CMP00462,2026-09-01,"Streetlight near Gandhi Chowk, Ward 1 not working for over a month, safety issue at night.",Ward 1,streetlight

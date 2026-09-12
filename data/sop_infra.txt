@@ -1,0 +1,42 @@
+MUNICIPAL SOP DOCUMENT: STREETLIGHT, ROAD & WATER SUPPLY MAINTENANCE
+Department of Electrical & Roads, Water Supply Board
+Document Reference: ELEC-ROAD-WSB-SOP-2024
+
+1. STREETLIGHT COMPLAINTS
+- Single non-functional streetlight: Repair within 5 working days.
+- Multiple non-functional streetlights on the same stretch (3 or more):
+  Classified as a "safety corridor failure" and must be repaired within
+  48 hours, since darkness over an extended stretch poses a materially
+  higher safety risk (especially for women and children) than an
+  isolated outage.
+- Complaints explicitly mentioning safety concerns ("unsafe," "women,"
+  "children," "night") should be prioritized over routine maintenance
+  queue ordering, irrespective of how long the fault has existed.
+
+2. POTHOLE AND ROAD DAMAGE COMPLAINTS
+- Potholes reported with the keyword "accident" or "skidding" must be
+  inspected within 24 hours and temporarily patched within 72 hours even
+  if permanent resurfacing is scheduled later.
+- A stretch of road with 3 or more distinct pothole complaints should be
+  scheduled for full resurfacing rather than repeated spot-patching,
+  which is a recurring cost sink.
+- Post-monsoon road damage complaints typically spike; roads with
+  recurring monsoon-season pothole complaints in consecutive years
+  should be flagged for a monsoon-resilient resurfacing material upgrade.
+
+3. WATER SUPPLY COMPLAINTS
+- No-supply complaints: Restore within 24 hours; if pipeline damage is
+  the cause, provide a tanker as an interim measure within 6 hours.
+- Water contamination/quality complaints (odor, color, taste) are
+  treated as Tier 1 public health issues and require water sample
+  testing within 24 hours, regardless of complaint volume.
+- Irregular supply timing complaints, if recurring across a ward, should
+  trigger a pressure/distribution audit of that ward's pipeline network.
+
+4. CROSS-DEPARTMENT NOTE
+Wards showing simultaneous recurring complaints across multiple
+categories (e.g., waterlogging + potholes + streetlights) in the same
+area often indicate a single underlying infrastructure project need
+(e.g., a full road-and-drainage redevelopment) rather than independent
+fixes, and should be reviewed jointly by all departments before budget
+allocation.
